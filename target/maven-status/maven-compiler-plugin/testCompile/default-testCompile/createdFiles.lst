@@ -1,12 +1,12 @@
 com\facebook\utilities\XLUtils.class
 com\facebook\testCases\TC_LoginTest_003.class
 com\facebook\pageObjects\GroupsPage.class
-com\facebook\testCases\TC_SignUpDDT_002.class
-com\facebook\testCases\TC_SignUPTest_001.class
 com\facebook\testCases\TC_Groups_005.class
 com\facebook\pageObjects\HomePage.class
-com\facebook\testBase\BaseClass.class
 com\facebook\pageObjects\LoginPage.class
-com\facebook\testCases\TC_HomePage_004.class
 com\facebook\pageObjects\SignUpPage.class
+com\facebook\testCases\TC_SignUpDDT_002.class
+com\facebook\testCases\TC_SignUPTest_001.class
+com\facebook\testBase\BaseClass.class
+com\facebook\testCases\TC_HomePage_004.class
 com\facebook\utilities\ExtentReportManager.class

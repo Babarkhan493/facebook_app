@@ -57,9 +57,9 @@ function toggleAllBoxes() {
 <tr>
 <td>Tests passed/Failed/Skipped:</td><td>6/2/0</td>
 </tr><tr>
-<td>Started on:</td><td>Wed Nov 25 00:07:51 EST 2020</td>
+<td>Started on:</td><td>Thu Nov 26 13:11:02 EST 2020</td>
 </tr>
-<tr><td>Total time:</td><td>152 seconds (152641 ms)</td>
+<tr><td>Total time:</td><td>211 seconds (211436 ms)</td>
 </tr><tr>
 <td>Included groups:</td><td></td>
 </tr><tr>
@@ -82,8 +82,8 @@ For documentation on this error, please visit: https://selenium.dev/exceptions/#
 Build info: version: &apos;4.0.0-alpha-6&apos;, revision: &apos;5f43a29cfc&apos;
 System info: host: &apos;LAPTOP-IIRF7F8F&apos;, ip: &apos;192.168.4.29&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_221&apos;
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.66, chrome: {chromedriverVersion: 87.0.4280.20 (c99e81631faa0..., userDataDir: C:\Users\muhas\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51755}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: 8292fe1dced174df01a88f803b850df5
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.66, chrome: {chromedriverVersion: 87.0.4280.20 (c99e81631faa0..., userDataDir: C:\Users\muhas\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64812}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 7e2560205993e9869f77946e21d0a54c
 	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:196)
 	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:129)
 	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
@@ -97,15 +97,15 @@ Session ID: 8292fe1dced174df01a88f803b850df5
 	at com.facebook.pageObjects.GroupsPage.clickcreatenewgroup(GroupsPage.java:83)
 	at com.facebook.testCases.TC_Groups_005.GroupsPage(TC_Groups_005.java:38)
 	at java.util.ArrayList.forEach(ArrayList.java:1257)
-... Removed 39 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1986676021", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace1986676021'><pre>org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+... Removed 39 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1712666248", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1712666248'><pre>org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
   (Session info: chrome=87.0.4280.66)
 For documentation on this error, please visit: https://selenium.dev/exceptions/#stale_element_reference
 Build info: version: &apos;4.0.0-alpha-6&apos;, revision: &apos;5f43a29cfc&apos;
 System info: host: &apos;LAPTOP-IIRF7F8F&apos;, ip: &apos;192.168.4.29&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_221&apos;
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.66, chrome: {chromedriverVersion: 87.0.4280.20 (c99e81631faa0..., userDataDir: C:\Users\muhas\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51755}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: 8292fe1dced174df01a88f803b850df5
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.66, chrome: {chromedriverVersion: 87.0.4280.20 (c99e81631faa0..., userDataDir: C:\Users\muhas\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64812}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 7e2560205993e9869f77946e21d0a54c
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
@@ -159,38 +159,45 @@ Session ID: 8292fe1dced174df01a88f803b850df5
 	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:562)
 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:548)
 </pre></div></td>
-<td>33</td>
-<td>com.facebook.testCases.TC_Groups_005@6771beb3</td></tr>
+<td>37</td>
+<td>com.facebook.testCases.TC_Groups_005@51399530</td></tr>
 <tr>
 <td title='com.facebook.testCases.TC_HomePage_004.HomePage()'><b>HomePage</b><br>Test class: com.facebook.testCases.TC_HomePage_004</td>
-<td><div><pre>org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element &lt;div class=&quot;cwj9ozl2 j83agx80 pfnyh3mw taijpn5t dhxd5tqv hv4rvrfc f10w8fjw dati1w0a l9j0dhe7&quot;&gt;...&lt;/div&gt; is not clickable at point (664, 234). Other element would receive the click: &lt;div class=&quot;iqfcb0g7 tojvnm2t a6sixzi8 k5wvi7nf q3lfd5jv pk4s997a bipmatt0 cebpdrjk qowsmv63 owwhemhu dp1hu0rb dhp61c6y l9j0dhe7 iyyx5f41 a8s20v7p&quot; tabindex=&quot;-1&quot;&gt;...&lt;/div&gt;
+<td><div><pre>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//div[@class=&apos;cwj9ozl2 j83agx80 pfnyh3mw taijpn5t dhxd5tqv hv4rvrfc f10w8fjw dati1w0a l9j0dhe7&apos;]&quot;}
   (Session info: chrome=87.0.4280.66)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
 Build info: version: &apos;4.0.0-alpha-6&apos;, revision: &apos;5f43a29cfc&apos;
 System info: host: &apos;LAPTOP-IIRF7F8F&apos;, ip: &apos;192.168.4.29&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_221&apos;
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.66, chrome: {chromedriverVersion: 87.0.4280.20 (c99e81631faa0..., userDataDir: C:\Users\muhas\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51810}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: 674e5e54292f1b48aa8d96b5d84a7541
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.66, chrome: {chromedriverVersion: 87.0.4280.20 (c99e81631faa0..., userDataDir: C:\Users\muhas\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64868}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 67da16fca6b14d345928d87d2223f205
+*** Element info: {Using=xpath, value=//div[@class=&apos;cwj9ozl2 j83agx80 pfnyh3mw taijpn5t dhxd5tqv hv4rvrfc f10w8fjw dati1w0a l9j0dhe7&apos;]}
 	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:196)
 	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:129)
 	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
 	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:160)
 	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:582)
-	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:316)
-	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:85)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:52)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:333)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:451)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:394)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:325)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
 	at com.sun.proxy.$Proxy20.click(Unknown Source)
 	at com.facebook.pageObjects.HomePage.setCreatestory(HomePage.java:81)
 	at com.facebook.testCases.TC_HomePage_004.HomePage(TC_HomePage_004.java:34)
 	at java.util.ArrayList.forEach(ArrayList.java:1257)
-... Removed 39 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace929985841", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace929985841'><pre>org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element &lt;div class=&quot;cwj9ozl2 j83agx80 pfnyh3mw taijpn5t dhxd5tqv hv4rvrfc f10w8fjw dati1w0a l9j0dhe7&quot;&gt;...&lt;/div&gt; is not clickable at point (664, 234). Other element would receive the click: &lt;div class=&quot;iqfcb0g7 tojvnm2t a6sixzi8 k5wvi7nf q3lfd5jv pk4s997a bipmatt0 cebpdrjk qowsmv63 owwhemhu dp1hu0rb dhp61c6y l9j0dhe7 iyyx5f41 a8s20v7p&quot; tabindex=&quot;-1&quot;&gt;...&lt;/div&gt;
+... Removed 35 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1980560788", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1980560788'><pre>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//div[@class=&apos;cwj9ozl2 j83agx80 pfnyh3mw taijpn5t dhxd5tqv hv4rvrfc f10w8fjw dati1w0a l9j0dhe7&apos;]&quot;}
   (Session info: chrome=87.0.4280.66)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
 Build info: version: &apos;4.0.0-alpha-6&apos;, revision: &apos;5f43a29cfc&apos;
 System info: host: &apos;LAPTOP-IIRF7F8F&apos;, ip: &apos;192.168.4.29&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_221&apos;
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.66, chrome: {chromedriverVersion: 87.0.4280.20 (c99e81631faa0..., userDataDir: C:\Users\muhas\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51810}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: 674e5e54292f1b48aa8d96b5d84a7541
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.66, chrome: {chromedriverVersion: 87.0.4280.20 (c99e81631faa0..., userDataDir: C:\Users\muhas\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64868}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 67da16fca6b14d345928d87d2223f205
+*** Element info: {Using=xpath, value=//div[@class=&apos;cwj9ozl2 j83agx80 pfnyh3mw taijpn5t dhxd5tqv hv4rvrfc f10w8fjw dati1w0a l9j0dhe7&apos;]}
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
@@ -201,13 +208,12 @@ Session ID: 674e5e54292f1b48aa8d96b5d84a7541
 	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:160)
 	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:582)
-	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:316)
-	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:85)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.lang.reflect.Method.invoke(Method.java:498)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:52)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:333)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:451)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:394)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:325)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
 	at com.sun.proxy.$Proxy20.click(Unknown Source)
 	at com.facebook.pageObjects.HomePage.setCreatestory(HomePage.java:81)
 	at com.facebook.testCases.TC_HomePage_004.HomePage(TC_HomePage_004.java:34)
@@ -244,8 +250,8 @@ Session ID: 674e5e54292f1b48aa8d96b5d84a7541
 	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:562)
 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:548)
 </pre></div></td>
-<td>16</td>
-<td>com.facebook.testCases.TC_HomePage_004@51399530</td></tr>
+<td>46</td>
+<td>com.facebook.testCases.TC_HomePage_004@6b2ea799</td></tr>
 </table><p>
 <table width='100%' border='1' class='invocation-passed'>
 <tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
@@ -258,32 +264,32 @@ Session ID: 674e5e54292f1b48aa8d96b5d84a7541
 <td title='com.facebook.testCases.TC_LoginTest_003.LoginTest()'><b>LoginTest</b><br>Test class: com.facebook.testCases.TC_LoginTest_003</td>
 <td></td>
 <td>14</td>
-<td>com.facebook.testCases.TC_LoginTest_003@6b2ea799</td></tr>
+<td>com.facebook.testCases.TC_LoginTest_003@411f53a0</td></tr>
 <tr>
 <td title='com.facebook.testCases.TC_SignUPTest_001.SignUPTest()'><b>SignUPTest</b><br>Test class: com.facebook.testCases.TC_SignUPTest_001</td>
 <td></td>
-<td>13</td>
-<td>com.facebook.testCases.TC_SignUPTest_001@2b71e916</td></tr>
+<td>15</td>
+<td>com.facebook.testCases.TC_SignUPTest_001@36fc695d</td></tr>
 <tr>
 <td title='com.facebook.testCases.TC_SignUpDDT_002.signUpTest()'><b>signUpTest</b><br>Test class: com.facebook.testCases.TC_SignUpDDT_002<br>Parameters: Asif, Khan, khanasif.qa@gmail.com, Rabika2020@, Mar, 4, 1990, Male, Passed</td>
 <td></td>
-<td>13</td>
-<td>com.facebook.testCases.TC_SignUpDDT_002@411f53a0</td></tr>
+<td>14</td>
+<td>com.facebook.testCases.TC_SignUpDDT_002@2b71e916</td></tr>
 <tr>
 <td title='com.facebook.testCases.TC_SignUpDDT_002.signUpTest()'><b>signUpTest</b><br>Test class: com.facebook.testCases.TC_SignUpDDT_002<br>Parameters: Asif, Khan, khanasif@gmail.com, Rabika2020@, Mar, 4, 1990, Male, failed</td>
 <td></td>
-<td>12</td>
-<td>com.facebook.testCases.TC_SignUpDDT_002@411f53a0</td></tr>
+<td>13</td>
+<td>com.facebook.testCases.TC_SignUpDDT_002@2b71e916</td></tr>
 <tr>
 <td title='com.facebook.testCases.TC_SignUpDDT_002.signUpTest()'><b>signUpTest</b><br>Test class: com.facebook.testCases.TC_SignUpDDT_002<br>Parameters: Asif, Khan, khanasif.qa@gmail.com, Rabika2020, Mar, 4, 1990, Male, failed</td>
 <td></td>
 <td>12</td>
-<td>com.facebook.testCases.TC_SignUpDDT_002@411f53a0</td></tr>
+<td>com.facebook.testCases.TC_SignUpDDT_002@2b71e916</td></tr>
 <tr>
 <td title='com.facebook.testCases.TC_SignUpDDT_002.signUpTest()'><b>signUpTest</b><br>Test class: com.facebook.testCases.TC_SignUpDDT_002<br>Parameters: Asif, Kan, khanasif.qa@gmail.com, Rabika2020@, Mar, 4, 1990, Male, failed</td>
 <td></td>
-<td>12</td>
-<td>com.facebook.testCases.TC_SignUpDDT_002@411f53a0</td></tr>
+<td>13</td>
+<td>com.facebook.testCases.TC_SignUpDDT_002@2b71e916</td></tr>
 </table><p>
 </body>
 </html>

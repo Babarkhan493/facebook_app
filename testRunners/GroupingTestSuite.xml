@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="facebook Group Suite" thread-count="5">
+	<parameter name="browser" value="chrome" />
+	<!-- <parameter name="browser" value="edge"/>  -->
+	<!-- <parameter name="browser" value="firefox"/> -->
+	 	
+	 <listeners>
+		<listener
+			class-name="com.facebook.utilities.ExtentReportManager" />
+	</listeners>
+	
+	<test name="facebookTests" >
+		
+		<groups>
+         <run>
+            <include name = "sanity" />
+            <!--<exclude name = "regression" /> -->
+         </run>
+      	</groups>
+      
+
+		<!-- <classes>
+				<class name="com.facebook.testCases.TC_SignUPTest_001"/>
+				<class name="com.facebook.testCases.TC_SignUpDDT_002"/>
+				<class name="com.facebook.testCases.TC_LoginTest_003"/>
+				<class name="com.facebook.testCases.TC_HomePage_004"/>
+				<class name="com.facebook.testCases.TC_Groups_005"/> 
+		</classes>  -->
+		
+		<packages>
+      		<package name="com.facebook.testCases" />
+      	</packages>
+		
+	</test>
+  
+	
+</suite>

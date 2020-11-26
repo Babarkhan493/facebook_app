@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="facebook" parallel="tests" thread-count="2">
+
+	<listeners>
+		<listener class-name="com.facebook.utilities.ExtentReportManager"/>
+	</listeners>
+
+
+		<test name="chrometest">
+		<parameter name="browser" value="chrome"/>
+			<classes>
+				<!--  class name="com.facebook.testCases.TC_SignUPTest_001"/>-->
+				<!--class name="com.facebook.testCases.TC_SignUpDDT_002"/>-->
+				<!--class name="com.facebook.testCases.TC_LoginTest_003"/>-->
+				<class name="com.facebook.testCases.TC_HomePage_004"/>
+				<class name="com.facebook.testCases.TC_Groups_005"/>
+			</classes>
+		</test>
+		
+		
+		<!--  test name="edgetest">
+			<parameter name="browser" value="edge"/>
+				<classes>
+				<class name="com.facebook.testCases.TC_SignUPTest_001"/>
+				<class name="com.facebook.testCases.TC_SignUpDDT_002"/>
+				<class name="com.facebook.testCases.TC_LoginTest_003"/> 
+				<class name="com.facebook.testCases.TC_ProfileTest_005"/>
+			</classes>
+		</test>
+		
+		
+		<test name="firefoxtest">
+			<parameter name="browser" value="firefox"/>
+				<classes>
+				<class name="com.facebook.testCases.TC_SignUPTest_001"/>
+				<class name="com.facebook.testCases.TC_SignUpDDT_002"/>
+				<class name="com.facebook.testCases.TC_LoginTest_003"/> 
+				<class name="com.facebook.testCases.TC_ProfileTest_005"/>
+			</classes>
+			
+		</test>-->
+		
+</suite>

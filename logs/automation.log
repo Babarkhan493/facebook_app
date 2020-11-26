@@ -1,0 +1,1028 @@
+[INFO ] 06-11-2020 12:44:16.294 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 06-11-2020 12:44:20.236 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 06-11-2020 12:44:32.185 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 06-11-2020 12:44:32.207 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 06-11-2020 12:48:26.242 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 06-11-2020 12:48:28.557 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[ERROR] 06-11-2020 12:48:40.334 TC_SignUPTest_001 - *****  SignUP failed ***** 
+[INFO ] 06-11-2020 12:49:42.756 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 06-11-2020 12:49:45.034 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 06-11-2020 12:49:56.722 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 06-11-2020 12:49:56.725 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 06-11-2020 01:15:52.557 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 06-11-2020 01:16:00.852 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 06-11-2020 01:16:12.557 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 06-11-2020 01:16:12.591 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 06-11-2020 03:35:41.315 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 06-11-2020 03:35:44.696 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 06-11-2020 03:35:56.560 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 06-11-2020 03:35:56.564 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 06-11-2020 03:42:10.277 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 06-11-2020 03:42:16.706 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 06-11-2020 03:42:33.428 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 06-11-2020 03:42:33.433 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 06-11-2020 03:46:32.093 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 06-11-2020 03:46:34.642 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 06-11-2020 03:46:46.364 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 06-11-2020 03:46:46.368 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 06-11-2020 03:46:50.894 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 06-11-2020 03:46:55.248 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 06-11-2020 03:47:07.044 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 06-11-2020 03:47:07.045 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 06-11-2020 03:56:11.230 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 06-11-2020 03:56:15.348 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 06-11-2020 03:56:27.060 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 06-11-2020 03:56:27.063 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 06-11-2020 03:58:26.341 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 06-11-2020 03:58:28.222 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 06-11-2020 03:58:39.712 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 06-11-2020 03:58:39.716 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 06-11-2020 03:58:43.781 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 06-11-2020 03:58:46.989 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 06-11-2020 03:58:58.905 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 06-11-2020 03:58:58.906 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 06-11-2020 03:59:34.044 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 06-11-2020 03:59:41.570 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 06-11-2020 03:59:57.236 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 06-11-2020 03:59:57.236 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 06-11-2020 04:05:08.053 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 06-11-2020 04:05:14.570 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 06-11-2020 04:05:19.103 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 06-11-2020 04:05:34.797 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 06-11-2020 04:05:45.343 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 06-11-2020 04:05:48.159 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 06-11-2020 04:05:48.230 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 06-11-2020 04:06:01.231 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 06-11-2020 04:06:13.229 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 06-11-2020 04:06:13.230 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 06-11-2020 04:06:23.612 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 06-11-2020 04:06:23.612 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 06-11-2020 04:07:44.714 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 06-11-2020 04:07:44.913 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 06-11-2020 04:07:48.886 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 06-11-2020 04:07:50.983 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 06-11-2020 04:08:01.867 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 06-11-2020 04:08:01.871 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 06-11-2020 04:08:02.690 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 06-11-2020 04:08:02.690 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 06-11-2020 04:08:10.870 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 06-11-2020 04:08:15.681 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 06-11-2020 04:08:27.656 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 06-11-2020 04:08:27.657 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 06-11-2020 05:30:13.927 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 06-11-2020 05:30:14.945 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 06-11-2020 05:30:22.602 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 06-11-2020 05:30:23.549 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[ERROR] 06-11-2020 05:30:34.880 TC_SignUPTest_001 - *****  SignUP failed ***** 
+[ERROR] 06-11-2020 05:30:36.878 TC_SignUPTest_001 - *****  SignUP failed ***** 
+[INFO ] 06-11-2020 05:30:56.585 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 06-11-2020 05:31:02.749 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[ERROR] 06-11-2020 05:31:15.311 TC_SignUPTest_001 - *****  SignUP failed ***** 
+[INFO ] 06-11-2020 05:36:26.559 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 06-11-2020 05:36:26.749 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 06-11-2020 05:36:30.528 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 06-11-2020 05:36:30.933 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 06-11-2020 05:36:43.323 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 06-11-2020 05:36:43.327 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 06-11-2020 05:36:43.657 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 06-11-2020 05:36:43.657 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 06-11-2020 05:36:48.849 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 06-11-2020 05:36:53.161 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 06-11-2020 05:37:05.163 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 06-11-2020 05:37:05.163 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 07-11-2020 06:21:40.508 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 07-11-2020 06:21:43.091 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 07-11-2020 06:21:54.692 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 07-11-2020 06:21:54.744 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 07-11-2020 06:56:27.910 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 07-11-2020 06:56:30.648 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 07-11-2020 06:58:32.496 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 07-11-2020 06:58:36.638 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 07-11-2020 07:00:00.013 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 07-11-2020 07:00:02.493 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 07-11-2020 07:00:14.778 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 07-11-2020 07:00:14.794 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 07-11-2020 10:04:41.233 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 07-11-2020 10:04:43.902 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 07-11-2020 10:04:55.684 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 07-11-2020 10:04:55.687 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 07-11-2020 10:06:51.892 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 07-11-2020 10:06:54.854 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 07-11-2020 10:07:06.633 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 07-11-2020 10:07:06.637 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 09-11-2020 01:19:18.641 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 09-11-2020 01:19:21.907 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 09-11-2020 01:19:33.976 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 09-11-2020 01:19:34.060 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 10-11-2020 10:05:02.184 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 10-11-2020 10:05:11.044 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 10-11-2020 10:05:23.084 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 10-11-2020 10:05:23.106 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 10-11-2020 11:44:00.893 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 10-11-2020 11:44:05.918 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 10-11-2020 11:44:18.065 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 10-11-2020 11:44:18.097 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 11-11-2020 12:29:57.186 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 11-11-2020 12:30:00.261 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 11-11-2020 12:30:12.866 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 11-11-2020 12:30:12.870 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 11-11-2020 12:31:49.684 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 11-11-2020 12:31:52.162 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 11-11-2020 12:32:04.430 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 11-11-2020 12:32:04.433 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 11-11-2020 12:33:51.178 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 11-11-2020 12:33:53.853 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 11-11-2020 12:34:06.100 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 11-11-2020 12:34:06.103 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 11-11-2020 12:37:45.294 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 11-11-2020 12:37:47.266 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 11-11-2020 12:37:59.503 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 11-11-2020 12:37:59.506 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 11-11-2020 01:00:04.953 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 11-11-2020 01:00:08.140 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 11-11-2020 01:00:19.916 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 11-11-2020 01:00:19.923 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 11-11-2020 01:04:51.833 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 11-11-2020 01:04:54.411 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 11-11-2020 01:05:06.281 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 11-11-2020 01:05:06.284 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 11-11-2020 01:08:47.162 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 11-11-2020 01:08:48.758 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 11-11-2020 01:09:00.420 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 11-11-2020 01:09:00.424 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 12-11-2020 10:46:57.687 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 12-11-2020 10:47:00.698 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 12-11-2020 10:47:12.360 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 12-11-2020 10:47:12.365 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 12-11-2020 11:11:19.278 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 12-11-2020 11:11:22.416 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 12-11-2020 11:11:34.222 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 12-11-2020 11:11:34.227 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 12-11-2020 11:16:16.861 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 12-11-2020 11:16:18.883 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 12-11-2020 11:16:30.568 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 12-11-2020 11:16:30.571 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 12-11-2020 11:18:54.345 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 12-11-2020 11:18:56.185 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 12-11-2020 11:19:03.174 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 12-11-2020 11:19:03.178 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 12-11-2020 11:21:03.857 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 12-11-2020 11:21:05.551 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 12-11-2020 11:21:12.235 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 12-11-2020 11:21:12.240 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 12-11-2020 11:40:51.506 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 12-11-2020 11:40:54.420 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 12-11-2020 11:41:06.046 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 12-11-2020 11:41:06.049 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 12-11-2020 11:44:16.847 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 12-11-2020 11:44:20.709 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 12-11-2020 11:44:32.650 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 12-11-2020 11:44:32.656 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 12-11-2020 11:47:37.789 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 12-11-2020 11:47:41.178 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 12-11-2020 11:47:52.949 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 12-11-2020 11:47:52.952 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 12-11-2020 11:50:12.847 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 12-11-2020 11:50:15.136 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 12-11-2020 11:50:27.394 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 12-11-2020 11:50:27.398 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 12-11-2020 11:55:21.062 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 12-11-2020 11:55:23.876 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 12-11-2020 11:55:35.923 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 12-11-2020 11:55:35.927 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 12-11-2020 11:57:11.808 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 12-11-2020 11:57:14.228 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 12-11-2020 11:57:26.401 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 12-11-2020 11:57:26.406 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 12-11-2020 12:03:26.448 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 12-11-2020 12:03:29.010 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 12-11-2020 12:09:07.966 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 12-11-2020 12:09:10.459 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 12-11-2020 12:09:22.074 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 12-11-2020 12:09:22.078 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 12-11-2020 12:14:33.408 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 12-11-2020 12:14:35.514 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 12-11-2020 12:14:47.245 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 12-11-2020 12:14:47.247 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 13-11-2020 12:01:26.691 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 13-11-2020 12:01:29.178 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 12:01:40.778 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 13-11-2020 12:01:40.789 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 13-11-2020 12:01:44.662 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 13-11-2020 12:01:46.780 TC_LoginTest_003 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 12:01:56.435 TC_LoginTest_003 - ****** Providing Login details *******
+[INFO ] 13-11-2020 12:03:22.369 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 13-11-2020 12:03:24.402 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 12:03:35.911 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 13-11-2020 12:03:35.914 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 13-11-2020 12:03:39.730 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 13-11-2020 12:03:41.603 TC_LoginTest_003 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 12:03:51.153 TC_LoginTest_003 - ****** Providing Login details *******
+[INFO ] 13-11-2020 12:19:52.242 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 13-11-2020 12:19:54.782 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 12:20:06.305 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 13-11-2020 12:20:06.308 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 13-11-2020 12:20:09.828 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 13-11-2020 12:20:11.340 TC_LoginTest_003 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 12:20:20.882 TC_LoginTest_003 - ****** Providing Login details *******
+[INFO ] 13-11-2020 12:24:22.327 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 13-11-2020 12:24:24.059 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 12:24:35.768 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 13-11-2020 12:24:35.770 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 13-11-2020 12:24:39.315 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 13-11-2020 12:24:40.997 TC_LoginTest_003 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 12:24:50.410 TC_LoginTest_003 - ****** Providing Login details *******
+[INFO ] 13-11-2020 12:37:15.871 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 13-11-2020 12:37:19.256 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 12:37:30.748 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 13-11-2020 12:37:30.750 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 13-11-2020 12:37:34.203 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 13-11-2020 12:37:37.384 TC_LoginTest_003 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 12:37:47.449 TC_LoginTest_003 - ****** Providing Login details *******
+[INFO ] 13-11-2020 12:50:21.615 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 13-11-2020 12:50:24.087 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 12:50:35.812 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 13-11-2020 12:50:35.814 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 13-11-2020 12:50:39.888 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 13-11-2020 12:50:41.548 TC_LoginTest_003 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 12:50:51.275 TC_LoginTest_003 - ****** Providing Login details *******
+[INFO ] 13-11-2020 01:01:31.225 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 13-11-2020 01:01:33.333 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 01:01:44.746 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 13-11-2020 01:01:44.749 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 13-11-2020 01:01:48.333 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 13-11-2020 01:01:49.979 TC_LoginTest_003 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 01:01:59.482 TC_LoginTest_003 - ****** Providing Login details *******
+[INFO ] 13-11-2020 01:06:48.982 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 13-11-2020 01:06:51.365 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 01:07:02.710 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 13-11-2020 01:07:02.714 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 13-11-2020 01:07:06.319 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 13-11-2020 01:07:08.097 TC_LoginTest_003 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 01:07:17.461 TC_LoginTest_003 - ****** Providing Login details *******
+[INFO ] 13-11-2020 11:31:37.362 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 13-11-2020 11:31:40.106 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 11:31:52.588 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 13-11-2020 11:31:52.601 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 13-11-2020 11:31:56.754 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 13-11-2020 11:31:59.768 TC_LoginTest_003 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 11:32:09.549 TC_LoginTest_003 - ****** Providing Login details *******
+[INFO ] 13-11-2020 11:47:02.196 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 13-11-2020 11:47:04.284 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 11:47:16.345 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 13-11-2020 11:47:16.349 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 13-11-2020 11:47:20.359 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 13-11-2020 11:47:22.725 TC_LoginTest_003 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 11:47:32.382 TC_LoginTest_003 - ****** Providing Login details *******
+[INFO ] 13-11-2020 11:50:29.321 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 13-11-2020 11:50:32.467 TC_LoginTest_003 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 11:50:42.321 TC_LoginTest_003 - ****** Providing Login details *******
+[INFO ] 13-11-2020 11:54:25.436 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 13-11-2020 11:54:27.390 TC_LoginTest_003 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 12:02:21.512 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 13-11-2020 12:02:23.471 TC_LoginTest_003 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 12:17:24.061 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 13-11-2020 12:17:26.177 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 12:17:37.921 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 13-11-2020 12:17:37.926 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 13-11-2020 12:17:41.916 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 13-11-2020 12:17:43.958 TC_LoginTest_003 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 12:18:34.391 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 13-11-2020 12:18:36.449 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 12:18:48.205 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 13-11-2020 12:18:48.207 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 13-11-2020 12:18:52.238 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 13-11-2020 12:18:53.681 TC_LoginTest_003 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 12:22:43.605 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 13-11-2020 12:22:45.388 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 12:22:57.394 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 13-11-2020 12:22:57.399 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 13-11-2020 12:23:01.371 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 13-11-2020 12:23:03.697 TC_LoginTest_003 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 12:30:51.190 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 13-11-2020 12:30:53.870 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 12:31:05.752 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 13-11-2020 12:31:05.759 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 13-11-2020 12:31:09.789 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 13-11-2020 12:31:11.384 TC_LoginTest_003 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 12:33:10.508 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 13-11-2020 12:33:13.030 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 12:33:24.901 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 13-11-2020 12:33:24.903 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 13-11-2020 12:33:28.849 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 13-11-2020 12:33:30.615 TC_LoginTest_003 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 12:39:14.980 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 13-11-2020 12:39:17.500 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 12:39:29.244 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 13-11-2020 12:39:29.247 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 13-11-2020 12:39:33.211 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 13-11-2020 12:39:34.621 TC_LoginTest_003 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 12:44:36.457 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 13-11-2020 12:44:38.511 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 12:44:50.218 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 13-11-2020 12:44:50.222 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 13-11-2020 12:44:54.253 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 13-11-2020 12:44:55.971 TC_LoginTest_003 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 12:46:23.354 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 13-11-2020 12:46:25.476 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 12:46:37.473 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 13-11-2020 12:46:37.476 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 13-11-2020 12:46:41.242 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 13-11-2020 12:46:42.866 TC_LoginTest_003 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 12:51:28.960 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 13-11-2020 12:51:31.246 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 12:51:43.020 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 13-11-2020 12:51:43.023 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 13-11-2020 12:51:47.067 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 13-11-2020 12:51:48.551 TC_LoginTest_003 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 12:53:22.818 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 13-11-2020 12:53:24.779 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 12:53:36.412 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 13-11-2020 12:53:36.415 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 13-11-2020 12:53:40.211 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 13-11-2020 12:53:41.668 TC_LoginTest_003 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 01:06:16.325 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 13-11-2020 01:06:18.137 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 01:06:29.855 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 13-11-2020 01:06:29.861 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 13-11-2020 01:06:33.975 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 13-11-2020 01:06:35.488 TC_LoginTest_003 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 01:09:38.811 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 13-11-2020 01:09:40.764 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 01:09:52.548 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 13-11-2020 01:09:52.552 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 13-11-2020 01:09:56.578 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 13-11-2020 01:09:59.006 TC_LoginTest_003 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 01:12:46.145 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 13-11-2020 01:12:48.285 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 01:13:00.040 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 13-11-2020 01:13:00.045 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 13-11-2020 01:13:03.999 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 13-11-2020 01:13:05.799 TC_LoginTest_003 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 01:13:48.297 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 13-11-2020 01:13:50.230 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 01:14:02.299 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 13-11-2020 01:14:02.303 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 13-11-2020 01:14:06.472 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 13-11-2020 01:14:07.954 TC_LoginTest_003 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 01:15:00.639 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 13-11-2020 01:15:02.535 TC_LoginTest_003 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 01:32:33.903 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 13-11-2020 01:32:35.477 TC_LoginTest_003 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 01:46:45.674 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 13-11-2020 01:46:47.997 TC_LoginTest_003 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 01:48:29.700 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 13-11-2020 01:48:31.201 TC_LoginTest_003 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 01:50:40.629 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 13-11-2020 01:50:42.558 TC_LoginTest_003 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 01:51:24.177 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 13-11-2020 01:51:26.205 TC_LoginTest_003 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 01:52:50.277 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 13-11-2020 01:52:51.811 TC_LoginTest_003 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 02:27:18.322 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 13-11-2020 02:27:20.872 TC_LoginTest_003 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 02:33:53.618 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 13-11-2020 02:33:56.530 TC_LoginTest_003 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 02:34:30.671 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 13-11-2020 02:34:33.788 TC_LoginTest_003 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 03:41:54.682 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 13-11-2020 03:41:56.751 TC_LoginTest_003 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 03:55:00.514 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 13-11-2020 03:55:06.360 TC_LoginTest_003 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 04:04:01.308 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 13-11-2020 04:04:07.078 TC_LoginTest_003 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 04:06:12.765 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 13-11-2020 04:06:17.991 TC_LoginTest_003 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 04:08:45.774 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 13-11-2020 04:08:48.549 TC_LoginTest_003 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 04:15:34.608 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 13-11-2020 04:23:08.615 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 13-11-2020 04:23:12.536 TC_LoginTest_003 - ***** Providing SignUp details *****
+[INFO ] 13-11-2020 04:30:06.380 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 13-11-2020 04:32:00.694 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 14-11-2020 10:53:15.726 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 14-11-2020 11:06:35.991 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 14-11-2020 11:13:53.574 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 14-11-2020 11:41:03.258 TC_ProfileTest_005 - ***** Starting TC_ProfileTest_005 *****
+[INFO ] 14-11-2020 11:05:46.884 TC_ProfileTest_005 - ***** Starting TC_ProfileTest_005 *****
+[INFO ] 14-11-2020 11:06:40.673 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 14-11-2020 11:06:52.008 TC_ProfileTest_005 - ***** Starting TC_ProfileTest_005 *****
+[INFO ] 14-11-2020 11:41:49.893 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 14-11-2020 11:41:51.937 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 14-11-2020 11:42:05.087 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 14-11-2020 11:42:05.189 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 14-11-2020 11:42:09.791 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 14-11-2020 11:42:21.999 TC_ProfileTest_005 - ***** Starting TC_ProfileTest_005 *****
+[INFO ] 14-11-2020 11:55:04.351 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 14-11-2020 11:55:07.667 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 14-11-2020 11:55:19.324 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 14-11-2020 11:55:19.326 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 14-11-2020 11:55:23.022 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 14-11-2020 11:55:33.747 TC_ProfileTest_005 - ***** Starting TC_ProfileTest_005 *****
+[INFO ] 14-11-2020 11:57:07.954 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 14-11-2020 11:57:10.505 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 14-11-2020 11:57:22.142 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 14-11-2020 11:57:22.146 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 14-11-2020 11:57:33.654 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 14-11-2020 11:57:44.045 TC_ProfileTest_005 - ***** Starting TC_ProfileTest_005 *****
+[INFO ] 15-11-2020 12:03:30.906 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 15-11-2020 12:03:34.050 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 15-11-2020 12:03:45.781 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 15-11-2020 12:03:45.784 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 15-11-2020 12:03:55.721 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 12:04:07.451 TC_ProfileTest_005 - ***** Starting TC_ProfileTest_005 *****
+[INFO ] 15-11-2020 12:07:24.029 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 15-11-2020 12:07:25.591 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 15-11-2020 12:07:37.382 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 15-11-2020 12:07:37.385 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 15-11-2020 12:07:46.995 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 12:07:57.909 TC_ProfileTest_005 - ***** Starting TC_ProfileTest_005 *****
+[INFO ] 15-11-2020 12:13:42.345 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 15-11-2020 12:13:44.785 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 15-11-2020 12:13:56.361 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 15-11-2020 12:13:56.365 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 15-11-2020 12:14:05.488 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 12:14:15.722 TC_ProfileTest_005 - ***** Starting TC_ProfileTest_005 *****
+[INFO ] 15-11-2020 12:37:15.188 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 15-11-2020 12:37:16.623 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 15-11-2020 12:37:28.292 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 15-11-2020 12:37:28.296 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 15-11-2020 12:37:38.146 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 12:37:49.487 TC_ProfileTest_005 - ***** Starting TC_ProfileTest_005 *****
+[INFO ] 15-11-2020 01:51:18.889 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 15-11-2020 01:51:21.369 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[ERROR] 15-11-2020 01:51:33.119 TC_SignUPTest_001 - *****  SignUP failed ***** 
+[INFO ] 15-11-2020 01:51:47.801 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 01:52:30.150 TC_ProfileTest_005 - ***** Starting TC_ProfileTest_005 *****
+[INFO ] 15-11-2020 01:55:04.026 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 15-11-2020 01:55:05.698 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 15-11-2020 01:55:17.428 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 15-11-2020 01:55:17.432 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 15-11-2020 01:55:27.183 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 01:56:12.869 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 15-11-2020 01:56:15.296 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 15-11-2020 01:56:26.926 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 15-11-2020 01:56:26.929 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 15-11-2020 01:56:36.550 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 01:56:49.452 TC_ProfileTest_005 - ***** Starting TC_ProfileTest_005 *****
+[INFO ] 15-11-2020 01:57:47.742 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 15-11-2020 01:57:49.567 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[ERROR] 15-11-2020 01:58:01.252 TC_SignUPTest_001 - *****  SignUP failed ***** 
+[INFO ] 15-11-2020 01:58:11.354 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 01:58:24.368 TC_ProfileTest_005 - ***** Starting TC_ProfileTest_005 *****
+[INFO ] 15-11-2020 11:45:18.047 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 15-11-2020 11:45:22.575 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 15-11-2020 11:45:34.279 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 15-11-2020 11:45:34.328 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 15-11-2020 11:45:53.053 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 11:46:37.083 TC_ProfileTest_005 - ***** Starting TC_ProfileTest_005 *****
+[INFO ] 15-11-2020 11:49:10.057 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 15-11-2020 11:49:14.324 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 15-11-2020 11:49:26.864 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 15-11-2020 11:49:26.869 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 15-11-2020 11:49:42.528 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 11:50:00.681 TC_ProfileTest_005 - ***** Starting TC_ProfileTest_005 *****
+[INFO ] 15-11-2020 11:53:43.042 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 15-11-2020 11:53:57.173 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 15-11-2020 11:54:09.638 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 15-11-2020 11:54:09.648 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 15-11-2020 11:54:32.319 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 11:55:26.095 TC_ProfileTest_005 - ***** Starting TC_ProfileTest_005 *****
+[INFO ] 15-11-2020 12:05:31.298 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 12:06:11.175 TC_ProfileTest_005 - ***** Starting TC_ProfileTest_005 *****
+[INFO ] 15-11-2020 12:10:51.282 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 12:11:06.051 TC_ProfileTest_005 - ***** Starting TC_ProfileTest_005 *****
+[INFO ] 15-11-2020 12:19:27.528 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 12:19:39.955 TC_ProfileTest_005 - ***** Starting TC_ProfileTest_005 *****
+[INFO ] 15-11-2020 12:25:11.104 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 12:25:52.795 TC_ProfileTest_005 - ***** Starting TC_ProfileTest_005 *****
+[INFO ] 15-11-2020 12:28:01.684 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 12:28:42.962 TC_ProfileTest_005 - ***** Starting TC_ProfileTest_005 *****
+[INFO ] 15-11-2020 12:30:58.590 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 12:31:43.697 TC_ProfileTest_005 - ***** Starting TC_ProfileTest_005 *****
+[INFO ] 15-11-2020 12:32:56.500 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 12:36:04.698 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 12:38:34.119 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 12:39:21.245 TC_ProfileTest_005 - ***** Starting TC_ProfileTest_005 *****
+[INFO ] 15-11-2020 12:40:41.906 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 12:41:29.363 TC_ProfileTest_005 - ***** Starting TC_ProfileTest_005 *****
+[INFO ] 15-11-2020 12:51:37.970 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 12:55:51.664 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 12:57:28.158 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 12:59:08.784 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 01:01:02.125 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 01:04:00.189 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 01:15:00.246 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 01:23:11.348 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 01:24:23.456 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 01:31:54.553 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 01:45:09.960 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 01:53:32.672 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 01:55:11.595 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 01:56:49.520 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 01:59:31.554 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 02:03:33.085 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 02:08:20.990 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 02:13:32.481 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 02:16:01.793 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 02:21:11.757 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 02:22:28.907 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 02:23:34.663 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 02:56:36.410 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 02:59:53.609 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 03:12:16.659 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 03:17:05.240 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 03:22:34.114 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 15-11-2020 03:22:35.988 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 15-11-2020 03:22:47.806 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 15-11-2020 03:22:47.809 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 15-11-2020 03:22:57.270 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 03:24:31.845 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 03:26:16.925 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 15-11-2020 03:26:18.389 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 15-11-2020 03:26:29.787 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 15-11-2020 03:26:29.790 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 15-11-2020 03:26:38.699 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 03:58:09.378 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 04:00:51.641 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 04:04:09.340 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 15-11-2020 04:04:12.332 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 15-11-2020 04:04:24.343 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 15-11-2020 04:04:24.359 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 15-11-2020 04:04:34.013 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 04:17:42.069 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 15-11-2020 04:17:43.511 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 15-11-2020 04:17:55.032 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 15-11-2020 04:17:55.036 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 15-11-2020 04:18:03.903 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 04:26:03.574 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 15-11-2020 04:26:05.337 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 15-11-2020 04:26:16.846 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 15-11-2020 04:26:16.849 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 15-11-2020 04:26:25.493 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 04:27:36.318 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 04:30:25.775 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 15-11-2020 04:30:27.178 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 15-11-2020 04:30:38.804 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 15-11-2020 04:30:38.807 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 15-11-2020 04:30:47.342 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 05:23:15.142 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 15-11-2020 05:23:18.220 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 15-11-2020 05:23:30.113 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 15-11-2020 05:23:30.117 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 15-11-2020 05:23:41.325 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 05:25:01.049 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 15-11-2020 05:25:04.118 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[ERROR] 15-11-2020 05:25:15.680 TC_SignUPTest_001 - *****  SignUP failed ***** 
+[INFO ] 15-11-2020 05:25:25.919 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 06:15:45.810 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 15-11-2020 06:15:48.895 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 15-11-2020 06:16:00.684 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 15-11-2020 06:16:00.686 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 15-11-2020 06:16:10.457 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 06:20:05.434 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 15-11-2020 06:20:07.265 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 15-11-2020 06:20:18.751 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 15-11-2020 06:20:18.755 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 15-11-2020 06:20:27.927 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 06:25:39.109 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 15-11-2020 06:25:41.801 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 15-11-2020 06:25:53.319 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 15-11-2020 06:25:53.322 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 15-11-2020 06:26:02.494 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 06:27:10.887 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 06:33:22.859 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 15-11-2020 06:33:29.004 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 15-11-2020 06:33:40.756 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 15-11-2020 06:33:40.761 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 15-11-2020 06:33:57.722 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 06:34:51.329 TC_ProfileTest_005 - ***** Starting TC_ProfileTest_005 *****
+[INFO ] 15-11-2020 06:37:31.942 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 15-11-2020 06:37:34.792 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 15-11-2020 06:37:46.219 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 15-11-2020 06:37:46.222 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 15-11-2020 06:38:00.685 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 06:40:01.294 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 08:20:14.727 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 08:24:35.654 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 08:27:26.604 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 08:29:31.947 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 08:33:34.595 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 15-11-2020 08:33:37.675 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 15-11-2020 08:33:49.081 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 15-11-2020 08:33:49.096 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 15-11-2020 08:33:53.422 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 08:48:43.095 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 15-11-2020 08:48:44.760 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 15-11-2020 08:48:56.474 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 15-11-2020 08:48:56.477 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 15-11-2020 08:49:00.104 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 08:54:03.531 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 15-11-2020 08:54:04.868 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 15-11-2020 08:54:16.377 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 15-11-2020 08:54:16.380 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 15-11-2020 08:54:19.978 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 08:59:07.945 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 15-11-2020 08:59:09.346 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 15-11-2020 08:59:20.806 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 15-11-2020 08:59:20.810 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 15-11-2020 08:59:24.453 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 09:01:49.779 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 15-11-2020 09:01:51.699 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 15-11-2020 09:02:03.206 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 15-11-2020 09:02:03.210 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 15-11-2020 09:02:06.887 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 09:04:16.186 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 09:06:39.144 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 09:08:41.133 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 09:11:31.482 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 09:13:23.104 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 09:18:15.198 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 09:21:14.931 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 10:19:09.890 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 10:24:58.047 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 10:30:48.657 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 15-11-2020 10:30:50.522 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 15-11-2020 10:30:51.366 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 15-11-2020 10:30:55.450 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 15-11-2020 10:31:03.449 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 15-11-2020 10:31:03.505 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 15-11-2020 10:31:10.220 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 15-11-2020 10:31:10.221 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 15-11-2020 10:31:19.817 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 15-11-2020 10:32:01.316 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 15-11-2020 10:32:11.120 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 15-11-2020 10:32:23.910 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 15-11-2020 10:32:23.911 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 15-11-2020 10:32:40.356 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 16-11-2020 11:01:57.310 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 16-11-2020 11:01:59.942 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 16-11-2020 11:02:11.794 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 16-11-2020 11:02:11.797 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 16-11-2020 11:02:22.231 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 19-11-2020 10:19:26.640 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 19-11-2020 10:19:28.485 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 19-11-2020 10:19:40.109 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 19-11-2020 10:19:40.137 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 19-11-2020 10:31:05.940 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 19-11-2020 10:37:49.192 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 19-11-2020 10:42:55.435 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 19-11-2020 10:47:29.637 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 19-11-2020 11:04:17.470 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 19-11-2020 11:06:59.986 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 19-11-2020 11:21:47.820 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 19-11-2020 11:21:49.621 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 19-11-2020 11:22:01.346 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 19-11-2020 11:22:01.348 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 19-11-2020 11:22:10.576 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 19-11-2020 11:30:40.335 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 19-11-2020 11:30:42.076 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 19-11-2020 11:30:53.495 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 19-11-2020 11:30:53.498 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 19-11-2020 11:30:57.063 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 19-11-2020 11:46:39.566 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 19-11-2020 11:46:41.014 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 19-11-2020 11:46:52.585 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 19-11-2020 11:46:52.588 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 19-11-2020 11:46:56.234 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 19-11-2020 11:48:51.680 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 19-11-2020 11:48:55.301 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 19-11-2020 11:49:06.624 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 19-11-2020 11:49:06.626 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 19-11-2020 11:49:10.208 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 19-11-2020 11:54:17.403 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 19-11-2020 11:54:19.460 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 19-11-2020 11:54:30.955 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 19-11-2020 11:54:30.958 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 19-11-2020 11:54:34.468 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 19-11-2020 11:57:08.876 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 19-11-2020 11:57:10.978 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 19-11-2020 11:57:22.470 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 19-11-2020 11:57:22.473 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 19-11-2020 11:57:25.988 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 20-11-2020 12:00:31.128 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 20-11-2020 12:00:33.675 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 20-11-2020 12:00:45.331 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 20-11-2020 12:00:45.333 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 20-11-2020 12:00:48.874 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 20-11-2020 12:08:17.335 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 20-11-2020 12:08:19.343 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 20-11-2020 12:08:30.784 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 20-11-2020 12:08:30.786 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 20-11-2020 12:08:34.285 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 20-11-2020 12:12:42.932 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 20-11-2020 12:12:44.812 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 20-11-2020 12:12:56.757 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 20-11-2020 12:12:56.761 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 20-11-2020 12:13:00.259 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 20-11-2020 10:31:04.309 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 20-11-2020 10:31:09.301 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 20-11-2020 10:31:21.334 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 20-11-2020 10:31:21.386 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 20-11-2020 10:31:36.556 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 20-11-2020 10:54:54.321 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 20-11-2020 10:54:56.902 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 20-11-2020 10:55:09.053 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 20-11-2020 10:55:09.056 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 20-11-2020 10:55:20.791 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 20-11-2020 01:32:14.154 TC_SignUpDDT_002 - ***** Starting TC_SignUpDDT_002 
+[INFO ] 20-11-2020 01:32:32.819 TC_SignUpDDT_002 - **** Finished TC_SignUpDDT_002 ******
+[INFO ] 20-11-2020 01:32:32.971 TC_SignUpDDT_002 - ***** Starting TC_SignUpDDT_002 
+[INFO ] 20-11-2020 01:32:48.962 TC_SignUpDDT_002 - **** Finished TC_SignUpDDT_002 ******
+[INFO ] 20-11-2020 01:32:48.972 TC_SignUpDDT_002 - ***** Starting TC_SignUpDDT_002 
+[INFO ] 20-11-2020 01:33:02.971 TC_SignUpDDT_002 - **** Finished TC_SignUpDDT_002 ******
+[INFO ] 20-11-2020 01:33:02.975 TC_SignUpDDT_002 - ***** Starting TC_SignUpDDT_002 
+[INFO ] 20-11-2020 01:33:16.084 TC_SignUpDDT_002 - **** Finished TC_SignUpDDT_002 ******
+[INFO ] 20-11-2020 01:33:16.088 TC_SignUpDDT_002 - ***** Starting TC_SignUpDDT_002 
+[INFO ] 20-11-2020 01:33:29.396 TC_SignUpDDT_002 - **** Finished TC_SignUpDDT_002 ******
+[INFO ] 20-11-2020 01:33:29.399 TC_SignUpDDT_002 - ***** Starting TC_SignUpDDT_002 
+[INFO ] 20-11-2020 01:33:42.350 TC_SignUpDDT_002 - **** Finished TC_SignUpDDT_002 ******
+[INFO ] 20-11-2020 01:55:36.438 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 20-11-2020 01:55:39.155 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 20-11-2020 01:55:51.893 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 20-11-2020 01:55:51.983 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 20-11-2020 01:55:59.893 TC_SignUpDDT_002 - ***** Starting TC_SignUpDDT_002 
+[INFO ] 20-11-2020 01:56:15.138 TC_SignUpDDT_002 - **** Finished TC_SignUpDDT_002 ******
+[INFO ] 20-11-2020 01:56:15.142 TC_SignUpDDT_002 - ***** Starting TC_SignUpDDT_002 
+[INFO ] 20-11-2020 01:56:28.781 TC_SignUpDDT_002 - **** Finished TC_SignUpDDT_002 ******
+[INFO ] 20-11-2020 01:56:28.785 TC_SignUpDDT_002 - ***** Starting TC_SignUpDDT_002 
+[INFO ] 20-11-2020 01:56:41.581 TC_SignUpDDT_002 - **** Finished TC_SignUpDDT_002 ******
+[INFO ] 20-11-2020 01:56:41.584 TC_SignUpDDT_002 - ***** Starting TC_SignUpDDT_002 
+[INFO ] 20-11-2020 01:56:55.066 TC_SignUpDDT_002 - **** Finished TC_SignUpDDT_002 ******
+[INFO ] 20-11-2020 01:56:55.070 TC_SignUpDDT_002 - ***** Starting TC_SignUpDDT_002 
+[INFO ] 20-11-2020 01:57:06.988 TC_SignUpDDT_002 - ***** Starting TC_SignUpDDT_002 
+[INFO ] 20-11-2020 01:57:23.156 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 20-11-2020 02:03:12.121 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 20-11-2020 02:03:15.595 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 20-11-2020 02:03:28.235 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 20-11-2020 02:03:28.239 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 20-11-2020 02:04:40.848 TC_SignUpDDT_002 - ***** Starting TC_SignUpDDT_002 
+[INFO ] 20-11-2020 02:04:55.515 TC_SignUpDDT_002 - **** Finished TC_SignUpDDT_002 ******
+[INFO ] 20-11-2020 02:04:55.557 TC_SignUpDDT_002 - ***** Starting TC_SignUpDDT_002 
+[INFO ] 20-11-2020 02:05:10.053 TC_SignUpDDT_002 - **** Finished TC_SignUpDDT_002 ******
+[INFO ] 20-11-2020 02:05:10.066 TC_SignUpDDT_002 - ***** Starting TC_SignUpDDT_002 
+[INFO ] 20-11-2020 02:05:23.392 TC_SignUpDDT_002 - **** Finished TC_SignUpDDT_002 ******
+[INFO ] 20-11-2020 02:05:23.396 TC_SignUpDDT_002 - ***** Starting TC_SignUpDDT_002 
+[INFO ] 20-11-2020 02:05:36.855 TC_SignUpDDT_002 - **** Finished TC_SignUpDDT_002 ******
+[INFO ] 20-11-2020 02:05:36.859 TC_SignUpDDT_002 - ***** Starting TC_SignUpDDT_002 
+[INFO ] 20-11-2020 02:05:49.024 TC_SignUpDDT_002 - ***** Starting TC_SignUpDDT_002 
+[INFO ] 20-11-2020 02:15:21.288 TC_SignUpDDT_002 - ***** Starting TC_SignUpDDT_002 
+[INFO ] 20-11-2020 02:15:36.786 TC_SignUpDDT_002 - **** Finished TC_SignUpDDT_002 ******
+[INFO ] 20-11-2020 02:15:36.830 TC_SignUpDDT_002 - ***** Starting TC_SignUpDDT_002 
+[INFO ] 20-11-2020 02:15:50.118 TC_SignUpDDT_002 - **** Finished TC_SignUpDDT_002 ******
+[INFO ] 20-11-2020 02:15:50.127 TC_SignUpDDT_002 - ***** Starting TC_SignUpDDT_002 
+[INFO ] 20-11-2020 02:16:03.631 TC_SignUpDDT_002 - **** Finished TC_SignUpDDT_002 ******
+[INFO ] 20-11-2020 02:16:03.634 TC_SignUpDDT_002 - ***** Starting TC_SignUpDDT_002 
+[INFO ] 20-11-2020 02:16:16.623 TC_SignUpDDT_002 - **** Finished TC_SignUpDDT_002 ******
+[INFO ] 20-11-2020 02:19:44.908 TC_SignUpDDT_002 - ***** Starting TC_SignUpDDT_002 
+[INFO ] 20-11-2020 02:19:59.793 TC_SignUpDDT_002 - **** Finished TC_SignUpDDT_002 ******
+[INFO ] 20-11-2020 02:19:59.827 TC_SignUpDDT_002 - ***** Starting TC_SignUpDDT_002 
+[INFO ] 20-11-2020 02:20:13.239 TC_SignUpDDT_002 - **** Finished TC_SignUpDDT_002 ******
+[INFO ] 20-11-2020 02:20:13.243 TC_SignUpDDT_002 - ***** Starting TC_SignUpDDT_002 
+[INFO ] 20-11-2020 02:20:26.445 TC_SignUpDDT_002 - **** Finished TC_SignUpDDT_002 ******
+[INFO ] 20-11-2020 02:20:26.448 TC_SignUpDDT_002 - ***** Starting TC_SignUpDDT_002 
+[INFO ] 20-11-2020 02:20:39.421 TC_SignUpDDT_002 - **** Finished TC_SignUpDDT_002 ******
+[INFO ] 20-11-2020 02:25:03.168 TC_SignUpDDT_002 - ***** Starting TC_SignUpDDT_002 
+[INFO ] 20-11-2020 02:25:18.356 TC_SignUpDDT_002 - **** Finished TC_SignUpDDT_002 ******
+[INFO ] 20-11-2020 02:25:18.384 TC_SignUpDDT_002 - ***** Starting TC_SignUpDDT_002 
+[INFO ] 20-11-2020 02:25:31.784 TC_SignUpDDT_002 - **** Finished TC_SignUpDDT_002 ******
+[INFO ] 20-11-2020 02:25:31.789 TC_SignUpDDT_002 - ***** Starting TC_SignUpDDT_002 
+[INFO ] 20-11-2020 02:25:44.778 TC_SignUpDDT_002 - **** Finished TC_SignUpDDT_002 ******
+[INFO ] 20-11-2020 02:25:44.781 TC_SignUpDDT_002 - ***** Starting TC_SignUpDDT_002 
+[INFO ] 20-11-2020 02:25:57.885 TC_SignUpDDT_002 - **** Finished TC_SignUpDDT_002 ******
+[INFO ] 22-11-2020 02:07:39.332 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 02:08:51.605 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 02:11:57.118 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 02:19:17.579 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 02:23:37.731 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 02:26:04.016 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 02:28:25.552 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 02:37:39.537 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 02:40:11.870 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 02:46:23.180 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 02:48:26.630 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 02:53:07.839 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 02:55:17.492 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 02:56:59.752 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 02:58:38.890 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 03:02:50.135 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 03:06:23.821 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 03:09:35.149 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 03:12:54.221 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 03:16:25.043 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 03:18:32.274 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 03:19:56.329 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 03:22:33.961 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 12:21:40.366 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 12:27:41.508 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 01:03:09.670 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 01:06:25.486 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 01:11:41.150 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 01:13:10.194 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 01:16:32.129 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 01:18:00.944 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 01:20:49.399 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 01:23:59.035 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 01:25:43.602 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 01:26:58.206 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 01:28:50.621 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 01:32:47.047 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 01:41:18.865 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 01:43:26.498 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 01:45:08.041 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 01:46:02.436 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 01:52:31.468 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 02:08:52.692 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 02:12:16.807 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 02:14:19.033 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 02:15:28.150 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 02:17:22.097 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 02:25:34.729 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 02:29:47.812 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 02:34:53.164 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 02:36:13.963 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 02:38:12.840 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 02:39:45.832 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 02:47:47.717 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 02:58:26.336 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 03:03:42.088 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 03:06:59.538 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 03:08:34.337 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 03:12:34.936 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 03:15:25.640 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 03:21:22.964 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 03:25:31.089 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 03:30:14.363 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 03:40:20.375 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 03:47:35.077 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 03:48:39.124 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 03:56:26.680 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 03:57:25.644 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 04:00:00.611 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 04:02:47.260 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 04:05:14.960 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 04:15:46.915 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 04:19:12.766 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 08:55:05.396 TC_Groups_005 - ***** TC_Groups_005 *****
+[INFO ] 22-11-2020 08:57:16.724 TC_Groups_005 - ***** TC_Groups_005 *****
+[INFO ] 22-11-2020 08:59:48.149 TC_Groups_005 - ***** TC_Groups_005 *****
+[INFO ] 22-11-2020 09:14:32.679 TC_Groups_005 - ***** TC_Groups_005 *****
+[INFO ] 22-11-2020 09:19:16.854 TC_Groups_005 - ***** TC_Groups_005 *****
+[INFO ] 22-11-2020 09:22:42.116 TC_Groups_005 - ***** TC_Groups_005 *****
+[INFO ] 22-11-2020 09:23:58.786 TC_Groups_005 - ***** TC_Groups_005 *****
+[INFO ] 22-11-2020 09:26:59.010 TC_Groups_005 - ***** TC_Groups_005 *****
+[INFO ] 22-11-2020 09:33:49.315 TC_Groups_005 - ***** TC_Groups_005 *****
+[INFO ] 22-11-2020 09:40:19.285 TC_Groups_005 - ***** TC_Groups_005 *****
+[INFO ] 22-11-2020 09:44:42.698 TC_Groups_005 - ***** TC_Groups_005 *****
+[INFO ] 22-11-2020 09:57:26.836 TC_Groups_005 - ***** TC_Groups_005 *****
+[INFO ] 22-11-2020 10:01:09.074 TC_Groups_005 - ***** TC_Groups_005 *****
+[INFO ] 22-11-2020 10:08:15.477 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 10:10:05.407 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 10:18:22.308 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 10:19:14.428 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 10:31:13.927 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 10:33:46.477 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 10:53:47.271 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 11:00:35.657 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 11:02:16.581 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 22-11-2020 11:03:57.029 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 22-11-2020 11:04:12.279 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 22-11-2020 11:04:23.639 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 22-11-2020 11:04:23.650 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 22-11-2020 11:04:31.245 TC_SignUpDDT_002 - ***** Starting TC_SignUpDDT_002 
+[INFO ] 22-11-2020 11:04:44.706 TC_SignUpDDT_002 - **** Finished TC_SignUpDDT_002 ******
+[INFO ] 22-11-2020 11:04:44.710 TC_SignUpDDT_002 - ***** Starting TC_SignUpDDT_002 
+[INFO ] 22-11-2020 11:04:56.904 TC_SignUpDDT_002 - **** Finished TC_SignUpDDT_002 ******
+[INFO ] 22-11-2020 11:04:56.907 TC_SignUpDDT_002 - ***** Starting TC_SignUpDDT_002 
+[INFO ] 22-11-2020 11:05:09.044 TC_SignUpDDT_002 - **** Finished TC_SignUpDDT_002 ******
+[INFO ] 22-11-2020 11:05:09.048 TC_SignUpDDT_002 - ***** Starting TC_SignUpDDT_002 
+[INFO ] 22-11-2020 11:05:21.386 TC_SignUpDDT_002 - **** Finished TC_SignUpDDT_002 ******
+[INFO ] 22-11-2020 11:05:24.861 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 22-11-2020 11:05:41.760 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 23-11-2020 01:13:09.385 TC_Groups_005 - ***** TC_Groups_005 *****
+[INFO ] 23-11-2020 10:43:42.586 TC_Groups_005 - ***** TC_Groups_005 *****
+[INFO ] 23-11-2020 10:52:21.662 TC_Groups_005 - ***** TC_Groups_005 *****
+[INFO ] 23-11-2020 10:55:02.787 TC_Groups_005 - ***** TC_Groups_005 *****
+[INFO ] 23-11-2020 11:08:32.802 TC_Groups_005 - ***** TC_Groups_005 *****
+[INFO ] 24-11-2020 12:34:26.770 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 24-11-2020 12:34:29.700 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 24-11-2020 12:34:42.023 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 24-11-2020 12:34:42.042 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 24-11-2020 12:34:50.045 TC_SignUpDDT_002 - ***** Starting TC_SignUpDDT_002 
+[INFO ] 24-11-2020 12:35:06.435 TC_SignUpDDT_002 - **** Finished TC_SignUpDDT_002 ******
+[INFO ] 24-11-2020 12:35:06.444 TC_SignUpDDT_002 - ***** Starting TC_SignUpDDT_002 
+[INFO ] 24-11-2020 12:35:19.590 TC_SignUpDDT_002 - **** Finished TC_SignUpDDT_002 ******
+[INFO ] 24-11-2020 12:35:19.595 TC_SignUpDDT_002 - ***** Starting TC_SignUpDDT_002 
+[INFO ] 24-11-2020 12:35:32.991 TC_SignUpDDT_002 - **** Finished TC_SignUpDDT_002 ******
+[INFO ] 24-11-2020 12:35:32.994 TC_SignUpDDT_002 - ***** Starting TC_SignUpDDT_002 
+[INFO ] 24-11-2020 12:35:46.071 TC_SignUpDDT_002 - **** Finished TC_SignUpDDT_002 ******
+[INFO ] 24-11-2020 12:35:50.178 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 24-11-2020 12:36:10.396 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 24-11-2020 12:38:19.078 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 24-11-2020 12:41:38.783 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 24-11-2020 12:45:46.953 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 24-11-2020 12:52:17.977 TC_Groups_005 - ***** TC_Groups_005 *****
+[INFO ] 24-11-2020 12:58:33.227 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 24-11-2020 12:59:24.068 TC_Groups_005 - ***** TC_Groups_005 *****
+[INFO ] 24-11-2020 01:15:53.029 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 24-11-2020 01:17:33.912 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 24-11-2020 01:21:55.589 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 24-11-2020 01:24:09.080 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 24-11-2020 01:26:46.842 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 24-11-2020 01:28:59.271 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 24-11-2020 01:30:06.467 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 24-11-2020 01:32:47.027 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 24-11-2020 01:35:41.449 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 24-11-2020 01:39:38.441 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 24-11-2020 01:42:01.772 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 24-11-2020 01:45:34.665 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 24-11-2020 01:46:24.497 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 24-11-2020 01:47:23.719 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 24-11-2020 01:47:54.136 TC_Groups_005 - ***** TC_Groups_005 *****
+[INFO ] 24-11-2020 08:17:05.845 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 24-11-2020 08:17:30.837 TC_Groups_005 - ***** TC_Groups_005 *****
+[INFO ] 24-11-2020 08:18:49.618 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 24-11-2020 08:19:35.171 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 24-11-2020 08:22:38.833 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 24-11-2020 08:24:34.673 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 24-11-2020 08:26:27.451 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 24-11-2020 08:30:26.509 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 24-11-2020 08:31:28.371 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 24-11-2020 08:31:48.796 TC_Groups_005 - ***** TC_Groups_005 *****
+[INFO ] 24-11-2020 08:33:03.917 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 24-11-2020 08:33:58.816 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 24-11-2020 08:34:59.328 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 24-11-2020 08:35:18.820 TC_Groups_005 - ***** TC_Groups_005 *****
+[INFO ] 24-11-2020 08:36:36.381 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 24-11-2020 08:37:11.320 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 24-11-2020 08:37:49.608 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 24-11-2020 08:59:47.214 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 24-11-2020 08:59:50.886 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 24-11-2020 09:00:02.554 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 24-11-2020 09:00:02.561 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 24-11-2020 09:00:08.354 TC_SignUpDDT_002 - ***** Starting TC_SignUpDDT_002 
+[INFO ] 24-11-2020 09:00:22.459 TC_SignUpDDT_002 - **** Finished TC_SignUpDDT_002 ******
+[INFO ] 24-11-2020 09:00:22.466 TC_SignUpDDT_002 - ***** Starting TC_SignUpDDT_002 
+[INFO ] 24-11-2020 09:00:35.026 TC_SignUpDDT_002 - **** Finished TC_SignUpDDT_002 ******
+[INFO ] 24-11-2020 09:00:35.031 TC_SignUpDDT_002 - ***** Starting TC_SignUpDDT_002 
+[INFO ] 24-11-2020 09:00:47.267 TC_SignUpDDT_002 - **** Finished TC_SignUpDDT_002 ******
+[INFO ] 24-11-2020 09:00:47.270 TC_SignUpDDT_002 - ***** Starting TC_SignUpDDT_002 
+[INFO ] 24-11-2020 09:01:00.018 TC_SignUpDDT_002 - **** Finished TC_SignUpDDT_002 ******
+[INFO ] 24-11-2020 09:01:04.037 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 24-11-2020 09:01:20.780 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 24-11-2020 09:33:26.076 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 24-11-2020 09:33:42.862 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 24-11-2020 09:33:44.780 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 24-11-2020 09:33:56.327 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 24-11-2020 09:33:56.331 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 24-11-2020 09:40:25.743 TC_Groups_005 - ***** TC_Groups_005 *****
+[INFO ] 24-11-2020 09:41:03.152 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 24-11-2020 09:41:24.085 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 24-11-2020 09:41:42.592 TC_SignUpDDT_002 - ***** Starting TC_SignUpDDT_002 
+[INFO ] 24-11-2020 09:41:56.231 TC_SignUpDDT_002 - **** Finished TC_SignUpDDT_002 ******
+[INFO ] 24-11-2020 09:41:56.234 TC_SignUpDDT_002 - ***** Starting TC_SignUpDDT_002 
+[INFO ] 24-11-2020 09:42:08.403 TC_SignUpDDT_002 - **** Finished TC_SignUpDDT_002 ******
+[INFO ] 24-11-2020 09:42:08.406 TC_SignUpDDT_002 - ***** Starting TC_SignUpDDT_002 
+[INFO ] 24-11-2020 09:42:20.690 TC_SignUpDDT_002 - **** Finished TC_SignUpDDT_002 ******
+[INFO ] 24-11-2020 09:42:20.693 TC_SignUpDDT_002 - ***** Starting TC_SignUpDDT_002 
+[INFO ] 24-11-2020 09:42:33.136 TC_SignUpDDT_002 - **** Finished TC_SignUpDDT_002 ******
+[INFO ] 24-11-2020 09:42:36.706 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 24-11-2020 09:42:38.720 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 24-11-2020 09:42:50.138 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 24-11-2020 09:42:50.143 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 24-11-2020 10:17:40.949 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 24-11-2020 10:18:15.097 TC_Groups_005 - ***** TC_Groups_005 *****
+[INFO ] 24-11-2020 11:06:22.439 TC_Groups_005 - ***** TC_Groups_005 *****
+[INFO ] 24-11-2020 11:07:04.033 TC_HomePage_004 - ***** TC_HomePage_004 *****
+[INFO ] 24-11-2020 11:07:26.772 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 24-11-2020 11:07:50.371 TC_SignUpDDT_002 - ***** Starting TC_SignUpDDT_002 
+[INFO ] 24-11-2020 11:08:07.388 TC_SignUpDDT_002 - **** Finished TC_SignUpDDT_002 ******
+[INFO ] 24-11-2020 11:08:07.390 TC_SignUpDDT_002 - ***** Starting TC_SignUpDDT_002 
+[INFO ] 24-11-2020 11:08:21.148 TC_SignUpDDT_002 - **** Finished TC_SignUpDDT_002 ******
+[INFO ] 24-11-2020 11:08:21.149 TC_SignUpDDT_002 - ***** Starting TC_SignUpDDT_002 
+[INFO ] 24-11-2020 11:08:33.443 TC_SignUpDDT_002 - **** Finished TC_SignUpDDT_002 ******
+[INFO ] 24-11-2020 11:08:33.445 TC_SignUpDDT_002 - ***** Starting TC_SignUpDDT_002 
+[INFO ] 24-11-2020 11:08:45.814 TC_SignUpDDT_002 - **** Finished TC_SignUpDDT_002 ******
+[INFO ] 24-11-2020 11:08:50.361 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 24-11-2020 11:08:56.033 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 24-11-2020 11:09:07.427 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 24-11-2020 11:09:07.439 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 24-11-2020 11:09:14.383 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 24-11-2020 11:09:32.091 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 24-11-2020 11:09:34.707 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 24-11-2020 11:09:46.688 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 24-11-2020 11:09:46.688 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 24-11-2020 11:09:51.054 TC_SignUPTest_001 - ***** Starting TC_SignUPTest_001 *****
+[INFO ] 24-11-2020 11:09:53.160 TC_SignUPTest_001 - ***** Providing SignUp details *****
+[INFO ] 24-11-2020 11:10:04.611 TC_SignUPTest_001 - *****   SignUP passed ***** 
+[INFO ] 24-11-2020 11:10:04.611 TC_SignUPTest_001 - *****  Finished TC_SignUPTest_001 ***** 
+[INFO ] 24-11-2020 11:10:09.784 TC_SignUpDDT_002 - ***** Starting TC_SignUpDDT_002 
+[INFO ] 24-11-2020 11:10:24.429 TC_SignUpDDT_002 - **** Finished TC_SignUpDDT_002 ******
+[INFO ] 24-11-2020 11:10:24.430 TC_SignUpDDT_002 - ***** Starting TC_SignUpDDT_002 
+[INFO ] 24-11-2020 11:10:37.496 TC_SignUpDDT_002 - **** Finished TC_SignUpDDT_002 ******
+[INFO ] 24-11-2020 11:10:37.497 TC_SignUpDDT_002 - ***** Starting TC_SignUpDDT_002 
+[INFO ] 24-11-2020 11:10:49.819 TC_SignUpDDT_002 - **** Finished TC_SignUpDDT_002 ******
+[INFO ] 24-11-2020 11:10:49.820 TC_SignUpDDT_002 - ***** Starting TC_SignUpDDT_002 
+[INFO ] 24-11-2020 11:11:02.531 TC_SignUpDDT_002 - **** Finished TC_SignUpDDT_002 ******
+[INFO ] 24-11-2020 11:11:06.884 TC_LoginTest_003 - ***** Starting TC_Login_003 *****
+[INFO ] 24-11-2020 11:11:25.453 TC_HomePage_004 - ***** TC_HomePage_004 *****

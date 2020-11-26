@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [Failed suite [Failed suite [facebook]]]" parallel="tests">
+  <listeners>
+    <listener class-name="com.facebook.utilities.ExtentReportManager"/>
+  </listeners>
+  <test thread-count="2" name="chrometest(failed)(failed)(failed)" parallel="tests">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.facebook.testCases.TC_SignUpDDT_002">
+        <methods>
+          <include name="signUpTest"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.facebook.testCases.TC_SignUpDDT_002 -->
+    </classes>
+  </test> <!-- chrometest(failed)(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Failed suite [facebook]]] -->

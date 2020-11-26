@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="facebook Master Suite" thread-count="5">
+	<parameter name="browser" value="chrome" />
+	<!-- <parameter name="browser" value="edge"/>  -->
+	<!-- <parameter name="browser" value="firefox"/> -->
+	 	
+	 <listeners>
+		<listener
+			class-name="com.facebook.utilities.ExtentReportManager" />
+	</listeners>
+	
+	<test name="facebookTests" >
+		<packages>
+      		<package name="com.facebook.testCases" />
+      	</packages>
+	
+	</test>
+  
+</suite>

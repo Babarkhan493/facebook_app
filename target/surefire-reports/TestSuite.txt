@@ -1,0 +1,38 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 17, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 305.061 s <<< FAILURE! - in TestSuite
+com.facebook.testCases.TC_Groups_005.GroupsPage  Time elapsed: 33.705 s  <<< FAILURE!
+org.openqa.selenium.StaleElementReferenceException: 
+stale element reference: element is not attached to the page document
+  (Session info: chrome=87.0.4280.66)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#stale_element_reference
+Build info: version: '4.0.0-alpha-6', revision: '5f43a29cfc'
+System info: host: 'LAPTOP-IIRF7F8F', ip: '192.168.4.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.66, chrome: {chromedriverVersion: 87.0.4280.20 (c99e81631faa0..., userDataDir: C:\Users\muhas\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51755}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 8292fe1dced174df01a88f803b850df5
+	at com.facebook.testCases.TC_Groups_005.GroupsPage(TC_Groups_005.java:38)
+
+com.facebook.testCases.TC_HomePage_004.HomePage  Time elapsed: 16.164 s  <<< FAILURE!
+org.openqa.selenium.ElementClickInterceptedException: 
+element click intercepted: Element <div class="cwj9ozl2 j83agx80 pfnyh3mw taijpn5t dhxd5tqv hv4rvrfc f10w8fjw dati1w0a l9j0dhe7">...</div> is not clickable at point (664, 234). Other element would receive the click: <div class="iqfcb0g7 tojvnm2t a6sixzi8 k5wvi7nf q3lfd5jv pk4s997a bipmatt0 cebpdrjk qowsmv63 owwhemhu dp1hu0rb dhp61c6y l9j0dhe7 iyyx5f41 a8s20v7p" tabindex="-1">...</div>
+  (Session info: chrome=87.0.4280.66)
+Build info: version: '4.0.0-alpha-6', revision: '5f43a29cfc'
+System info: host: 'LAPTOP-IIRF7F8F', ip: '192.168.4.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.66, chrome: {chromedriverVersion: 87.0.4280.20 (c99e81631faa0..., userDataDir: C:\Users\muhas\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51810}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 674e5e54292f1b48aa8d96b5d84a7541
+	at com.facebook.testCases.TC_HomePage_004.HomePage(TC_HomePage_004.java:34)
+
+com.facebook.testCases.TC_HomePage_004.HomePage  Time elapsed: 18.118 s  <<< FAILURE!
+org.openqa.selenium.ElementClickInterceptedException: 
+element click intercepted: Element <div class="cwj9ozl2 j83agx80 pfnyh3mw taijpn5t dhxd5tqv hv4rvrfc f10w8fjw dati1w0a l9j0dhe7">...</div> is not clickable at point (664, 234). Other element would receive the click: <div class="iqfcb0g7 tojvnm2t a6sixzi8 k5wvi7nf q3lfd5jv pk4s997a bipmatt0 cebpdrjk qowsmv63 owwhemhu dp1hu0rb dhp61c6y l9j0dhe7 iyyx5f41 a8s20v7p" tabindex="-1">...</div>
+  (Session info: chrome=87.0.4280.66)
+Build info: version: '4.0.0-alpha-6', revision: '5f43a29cfc'
+System info: host: 'LAPTOP-IIRF7F8F', ip: '192.168.4.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.66, chrome: {chromedriverVersion: 87.0.4280.20 (c99e81631faa0..., userDataDir: C:\Users\muhas\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52326}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 7fbbb6b0a4363c96001e6801f9a50dce
+	at com.facebook.testCases.TC_HomePage_004.HomePage(TC_HomePage_004.java:34)
+

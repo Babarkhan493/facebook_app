@@ -1,0 +1,1383 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <meta charset='utf-8'>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports1.css" rel="stylesheet" id="ultra" />
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" id="retro" disabled="false"/>
+    <script type="text/javascript" src="jquery-3.4.1.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <button class="button" id="button">Switch Retro Theme</button> <!-- button -->
+      <br/>
+      <span class="top-banner-font-1">3 suites, 3 failed tests</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" class="collapse-all-link" title="Collapse/expand all the suites">
+          <img class="collapse-all-icon" src="collapseall.gif">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" class="navigator-link" panel-name="suite-facebook_CrossBrowser_Suite">
+              <span class="suite-name border-failed">facebook CrossBrowser Suite</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="test-xml-facebook_CrossBrowser_Suite">
+                    <span>C:\Users\muhas\eclipse-workspace2\facebook_app\testRunners\CrossBrowserTestSuite.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="testlist-facebook_CrossBrowser_Suite">
+                    <span class="test-stats">1 test</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="group-facebook_CrossBrowser_Suite">
+                    <span>3 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="times-facebook_CrossBrowser_Suite">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="reporter-facebook_CrossBrowser_Suite">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="ignored-methods-facebook_CrossBrowser_Suite">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="chronological-facebook_CrossBrowser_Suite">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">7 methods, 1 failed,   6 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title failed">Failed methods</span>
+                    <span class="show-or-hide-methods failed">
+                      <a href="#" panel-name="suite-facebook_CrossBrowser_Suite" class="hide-methods failed suite-facebook_CrossBrowser_Suite"> (hide)</a> <!-- hide-methods failed suite-facebook_CrossBrowser_Suite -->
+                      <a href="#" panel-name="suite-facebook_CrossBrowser_Suite" class="show-methods failed suite-facebook_CrossBrowser_Suite"> (show)</a> <!-- show-methods failed suite-facebook_CrossBrowser_Suite -->
+                    </span>
+                    <div class="method-list-content failed suite-facebook_CrossBrowser_Suite">
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-facebook_CrossBrowser_Suite" title="com.facebook.testCases.TC_HomePage_004" hash-for-method="HomePage">HomePage</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content failed suite-facebook_CrossBrowser_Suite -->
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-facebook_CrossBrowser_Suite" class="hide-methods passed suite-facebook_CrossBrowser_Suite"> (hide)</a> <!-- hide-methods passed suite-facebook_CrossBrowser_Suite -->
+                      <a href="#" panel-name="suite-facebook_CrossBrowser_Suite" class="show-methods passed suite-facebook_CrossBrowser_Suite"> (show)</a> <!-- show-methods passed suite-facebook_CrossBrowser_Suite -->
+                    </span>
+                    <div class="method-list-content passed suite-facebook_CrossBrowser_Suite">
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-facebook_CrossBrowser_Suite" title="com.facebook.testCases.TC_LoginTest_003" hash-for-method="LoginTest">LoginTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-facebook_CrossBrowser_Suite" title="com.facebook.testCases.TC_SignUPTest_001" hash-for-method="SignUPTest">SignUPTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-facebook_CrossBrowser_Suite" title="com.facebook.testCases.TC_SignUpDDT_002" hash-for-method="signUpTest(Asif, Khan, khanasif.qa@gmail.com, Rabika2020, Mar, 4, 1990, Male, failed)">signUpTest(Asif, Khan, khanasif.qa@gmail.com, Rabika2020, Mar, 4, 1990, Male, failed)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-facebook_CrossBrowser_Suite" title="com.facebook.testCases.TC_SignUpDDT_002" hash-for-method="signUpTest(Asif, Kan, khanasif.qa@gmail.com, Rabika2020@, Mar, 4, 1990, Male, failed)">signUpTest(Asif, Kan, khanasif.qa@gmail.com, Rabika2020@, Mar, 4, 1990, Male, failed)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-facebook_CrossBrowser_Suite" title="com.facebook.testCases.TC_SignUpDDT_002" hash-for-method="signUpTest(Asif, Khan, khanasif.qa@gmail.com, Rabika2020@, Mar, 4, 1990, Male, Passed)">signUpTest(Asif, Khan, khanasif.qa@gmail.com, Rabika2020@, Mar, 4, 1990, Male, Passed)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-facebook_CrossBrowser_Suite" title="com.facebook.testCases.TC_SignUpDDT_002" hash-for-method="signUpTest(Asif, Khan, khanasif@gmail.com, Rabika2020@, Mar, 4, 1990, Male, failed)">signUpTest(Asif, Khan, khanasif@gmail.com, Rabika2020@, Mar, 4, 1990, Male, failed)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-facebook_CrossBrowser_Suite -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" class="navigator-link" panel-name="suite-facebook_Group_Suite">
+              <span class="suite-name border-passed">facebook Group Suite</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="test-xml-facebook_Group_Suite">
+                    <span>C:\Users\muhas\eclipse-workspace2\facebook_app\testRunners\GroupingTestSuite.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="testlist-facebook_Group_Suite">
+                    <span class="test-stats">1 test</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="group-facebook_Group_Suite">
+                    <span>3 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="times-facebook_Group_Suite">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="reporter-facebook_Group_Suite">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="ignored-methods-facebook_Group_Suite">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="chronological-facebook_Group_Suite">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">2 methods,   2 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-facebook_Group_Suite" class="hide-methods passed suite-facebook_Group_Suite"> (hide)</a> <!-- hide-methods passed suite-facebook_Group_Suite -->
+                      <a href="#" panel-name="suite-facebook_Group_Suite" class="show-methods passed suite-facebook_Group_Suite"> (show)</a> <!-- show-methods passed suite-facebook_Group_Suite -->
+                    </span>
+                    <div class="method-list-content passed suite-facebook_Group_Suite">
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-facebook_Group_Suite" title="com.facebook.testCases.TC_LoginTest_003" hash-for-method="LoginTest">LoginTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-facebook_Group_Suite" title="com.facebook.testCases.TC_SignUPTest_001" hash-for-method="SignUPTest">SignUPTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-facebook_Group_Suite -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" class="navigator-link" panel-name="suite-facebook_Master_Suite">
+              <span class="suite-name border-failed">facebook Master Suite</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="test-xml-facebook_Master_Suite">
+                    <span>C:\Users\muhas\eclipse-workspace2\facebook_app\testRunners\mastertestsuite.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="testlist-facebook_Master_Suite">
+                    <span class="test-stats">1 test</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="group-facebook_Master_Suite">
+                    <span>3 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="times-facebook_Master_Suite">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="reporter-facebook_Master_Suite">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="ignored-methods-facebook_Master_Suite">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="chronological-facebook_Master_Suite">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">8 methods, 2 failed,   6 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title failed">Failed methods</span>
+                    <span class="show-or-hide-methods failed">
+                      <a href="#" panel-name="suite-facebook_Master_Suite" class="hide-methods failed suite-facebook_Master_Suite"> (hide)</a> <!-- hide-methods failed suite-facebook_Master_Suite -->
+                      <a href="#" panel-name="suite-facebook_Master_Suite" class="show-methods failed suite-facebook_Master_Suite"> (show)</a> <!-- show-methods failed suite-facebook_Master_Suite -->
+                    </span>
+                    <div class="method-list-content failed suite-facebook_Master_Suite">
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-facebook_Master_Suite" title="com.facebook.testCases.TC_Groups_005" hash-for-method="GroupsPage">GroupsPage</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-facebook_Master_Suite" title="com.facebook.testCases.TC_HomePage_004" hash-for-method="HomePage">HomePage</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content failed suite-facebook_Master_Suite -->
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-facebook_Master_Suite" class="hide-methods passed suite-facebook_Master_Suite"> (hide)</a> <!-- hide-methods passed suite-facebook_Master_Suite -->
+                      <a href="#" panel-name="suite-facebook_Master_Suite" class="show-methods passed suite-facebook_Master_Suite"> (show)</a> <!-- show-methods passed suite-facebook_Master_Suite -->
+                    </span>
+                    <div class="method-list-content passed suite-facebook_Master_Suite">
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-facebook_Master_Suite" title="com.facebook.testCases.TC_LoginTest_003" hash-for-method="LoginTest">LoginTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-facebook_Master_Suite" title="com.facebook.testCases.TC_SignUPTest_001" hash-for-method="SignUPTest">SignUPTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-facebook_Master_Suite" title="com.facebook.testCases.TC_SignUpDDT_002" hash-for-method="signUpTest(Asif, Kan, khanasif.qa@gmail.com, Rabika2020@, Mar, 4, 1990, Male, failed)">signUpTest(Asif, Kan, khanasif.qa@gmail.com, Rabika2020@, Mar, 4, 1990, Male, failed)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-facebook_Master_Suite" title="com.facebook.testCases.TC_SignUpDDT_002" hash-for-method="signUpTest(Asif, Khan, khanasif.qa@gmail.com, Rabika2020, Mar, 4, 1990, Male, failed)">signUpTest(Asif, Khan, khanasif.qa@gmail.com, Rabika2020, Mar, 4, 1990, Male, failed)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-facebook_Master_Suite" title="com.facebook.testCases.TC_SignUpDDT_002" hash-for-method="signUpTest(Asif, Khan, khanasif@gmail.com, Rabika2020@, Mar, 4, 1990, Male, failed)">signUpTest(Asif, Khan, khanasif@gmail.com, Rabika2020@, Mar, 4, 1990, Male, failed)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-facebook_Master_Suite" title="com.facebook.testCases.TC_SignUpDDT_002" hash-for-method="signUpTest(Asif, Khan, khanasif.qa@gmail.com, Rabika2020@, Mar, 4, 1990, Male, Passed)">signUpTest(Asif, Khan, khanasif.qa@gmail.com, Rabika2020@, Mar, 4, 1990, Male, Passed)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-facebook_Master_Suite -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-facebook_CrossBrowser_Suite" class="panel facebook_CrossBrowser_Suite">
+          <div class="suite-facebook_CrossBrowser_Suite-class-failed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="failed.png"/>
+              <span class="class-name">com.facebook.testCases.TC_HomePage_004</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="HomePage">
+                  </a> <!-- HomePage -->
+                  <span class="method-name">HomePage</span>
+                  <div class="stack-trace">org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element &lt;div class=&quot;cwj9ozl2 j83agx80 pfnyh3mw taijpn5t dhxd5tqv hv4rvrfc f10w8fjw dati1w0a l9j0dhe7&quot;&gt;...&lt;/div&gt; is not clickable at point (664, 234). Other element would receive the click: &lt;div class=&quot;iqfcb0g7 tojvnm2t a6sixzi8 k5wvi7nf q3lfd5jv pk4s997a bipmatt0 cebpdrjk qowsmv63 owwhemhu dp1hu0rb dhp61c6y l9j0dhe7 iyyx5f41 a8s20v7p&quot; tabindex=&quot;-1&quot;&gt;...&lt;/div&gt;
+  (Session info: chrome=87.0.4280.66)
+Build info: version: &apos;4.0.0-alpha-6&apos;, revision: &apos;5f43a29cfc&apos;
+System info: host: &apos;LAPTOP-IIRF7F8F&apos;, ip: &apos;192.168.4.29&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_221&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.66, chrome: {chromedriverVersion: 87.0.4280.20 (c99e81631faa0..., userDataDir: C:\Users\muhas\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52326}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 7fbbb6b0a4363c96001e6801f9a50dce
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:196)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:129)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:160)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:582)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:316)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:85)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:52)
+	at com.sun.proxy.$Proxy20.click(Unknown Source)
+	at com.facebook.pageObjects.HomePage.setCreatestory(HomePage.java:81)
+	at com.facebook.testCases.TC_HomePage_004.HomePage(TC_HomePage_004.java:34)
+	at java.util.ArrayList.forEach(ArrayList.java:1257)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+... Removed 25 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-facebook_CrossBrowser_Suite-class-failed -->
+          <div class="suite-facebook_CrossBrowser_Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.facebook.testCases.TC_SignUPTest_001</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="SignUPTest">
+                  </a> <!-- SignUPTest -->
+                  <span class="method-name">SignUPTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-facebook_CrossBrowser_Suite-class-passed -->
+          <div class="suite-facebook_CrossBrowser_Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.facebook.testCases.TC_LoginTest_003</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="LoginTest">
+                  </a> <!-- LoginTest -->
+                  <span class="method-name">LoginTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-facebook_CrossBrowser_Suite-class-passed -->
+          <div class="suite-facebook_CrossBrowser_Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.facebook.testCases.TC_SignUpDDT_002</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="signUpTest(Asif, Khan, khanasif.qa@gmail.com, Rabika2020, Mar, 4, 1990, Male, failed)">
+                  </a> <!-- signUpTest(Asif, Khan, khanasif.qa@gmail.com, Rabika2020, Mar, 4, 1990, Male, failed) -->
+                  <span class="method-name">signUpTest</span>
+                  <span class="parameters">(Asif, Khan, khanasif.qa@gmail.com, Rabika2020, Mar, 4, 1990, Male, failed)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="signUpTest(Asif, Kan, khanasif.qa@gmail.com, Rabika2020@, Mar, 4, 1990, Male, failed)">
+                  </a> <!-- signUpTest(Asif, Kan, khanasif.qa@gmail.com, Rabika2020@, Mar, 4, 1990, Male, failed) -->
+                  <span class="method-name">signUpTest</span>
+                  <span class="parameters">(Asif, Kan, khanasif.qa@gmail.com, Rabika2020@, Mar, 4, 1990, Male, failed)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="signUpTest(Asif, Khan, khanasif.qa@gmail.com, Rabika2020@, Mar, 4, 1990, Male, Passed)">
+                  </a> <!-- signUpTest(Asif, Khan, khanasif.qa@gmail.com, Rabika2020@, Mar, 4, 1990, Male, Passed) -->
+                  <span class="method-name">signUpTest</span>
+                  <span class="parameters">(Asif, Khan, khanasif.qa@gmail.com, Rabika2020@, Mar, 4, 1990, Male, Passed)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="signUpTest(Asif, Khan, khanasif@gmail.com, Rabika2020@, Mar, 4, 1990, Male, failed)">
+                  </a> <!-- signUpTest(Asif, Khan, khanasif@gmail.com, Rabika2020@, Mar, 4, 1990, Male, failed) -->
+                  <span class="method-name">signUpTest</span>
+                  <span class="parameters">(Asif, Khan, khanasif@gmail.com, Rabika2020@, Mar, 4, 1990, Male, failed)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-facebook_CrossBrowser_Suite-class-passed -->
+        </div> <!-- panel facebook_CrossBrowser_Suite -->
+        <div panel-name="suite-facebook_Group_Suite" class="panel facebook_Group_Suite">
+          <div class="suite-facebook_Group_Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.facebook.testCases.TC_SignUPTest_001</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="SignUPTest">
+                  </a> <!-- SignUPTest -->
+                  <span class="method-name">SignUPTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-facebook_Group_Suite-class-passed -->
+          <div class="suite-facebook_Group_Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.facebook.testCases.TC_LoginTest_003</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="LoginTest">
+                  </a> <!-- LoginTest -->
+                  <span class="method-name">LoginTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-facebook_Group_Suite-class-passed -->
+        </div> <!-- panel facebook_Group_Suite -->
+        <div panel-name="suite-facebook_Master_Suite" class="panel facebook_Master_Suite">
+          <div class="suite-facebook_Master_Suite-class-failed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="failed.png"/>
+              <span class="class-name">com.facebook.testCases.TC_Groups_005</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="GroupsPage">
+                  </a> <!-- GroupsPage -->
+                  <span class="method-name">GroupsPage</span>
+                  <div class="stack-trace">org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=87.0.4280.66)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#stale_element_reference
+Build info: version: &apos;4.0.0-alpha-6&apos;, revision: &apos;5f43a29cfc&apos;
+System info: host: &apos;LAPTOP-IIRF7F8F&apos;, ip: &apos;192.168.4.29&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_221&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.66, chrome: {chromedriverVersion: 87.0.4280.20 (c99e81631faa0..., userDataDir: C:\Users\muhas\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51755}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 8292fe1dced174df01a88f803b850df5
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:196)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:129)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:160)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:582)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:316)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:85)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:52)
+	at com.sun.proxy.$Proxy20.click(Unknown Source)
+	at com.facebook.pageObjects.GroupsPage.clickcreatenewgroup(GroupsPage.java:83)
+	at com.facebook.testCases.TC_Groups_005.GroupsPage(TC_Groups_005.java:38)
+	at java.util.ArrayList.forEach(ArrayList.java:1257)
+... Removed 39 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-facebook_Master_Suite-class-failed -->
+          <div class="suite-facebook_Master_Suite-class-failed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="failed.png"/>
+              <span class="class-name">com.facebook.testCases.TC_HomePage_004</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="HomePage">
+                  </a> <!-- HomePage -->
+                  <span class="method-name">HomePage</span>
+                  <div class="stack-trace">org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element &lt;div class=&quot;cwj9ozl2 j83agx80 pfnyh3mw taijpn5t dhxd5tqv hv4rvrfc f10w8fjw dati1w0a l9j0dhe7&quot;&gt;...&lt;/div&gt; is not clickable at point (664, 234). Other element would receive the click: &lt;div class=&quot;iqfcb0g7 tojvnm2t a6sixzi8 k5wvi7nf q3lfd5jv pk4s997a bipmatt0 cebpdrjk qowsmv63 owwhemhu dp1hu0rb dhp61c6y l9j0dhe7 iyyx5f41 a8s20v7p&quot; tabindex=&quot;-1&quot;&gt;...&lt;/div&gt;
+  (Session info: chrome=87.0.4280.66)
+Build info: version: &apos;4.0.0-alpha-6&apos;, revision: &apos;5f43a29cfc&apos;
+System info: host: &apos;LAPTOP-IIRF7F8F&apos;, ip: &apos;192.168.4.29&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_221&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.66, chrome: {chromedriverVersion: 87.0.4280.20 (c99e81631faa0..., userDataDir: C:\Users\muhas\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51810}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 674e5e54292f1b48aa8d96b5d84a7541
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:196)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:129)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:160)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:582)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:316)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:85)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:52)
+	at com.sun.proxy.$Proxy20.click(Unknown Source)
+	at com.facebook.pageObjects.HomePage.setCreatestory(HomePage.java:81)
+	at com.facebook.testCases.TC_HomePage_004.HomePage(TC_HomePage_004.java:34)
+	at java.util.ArrayList.forEach(ArrayList.java:1257)
+... Removed 39 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-facebook_Master_Suite-class-failed -->
+          <div class="suite-facebook_Master_Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.facebook.testCases.TC_SignUPTest_001</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="SignUPTest">
+                  </a> <!-- SignUPTest -->
+                  <span class="method-name">SignUPTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-facebook_Master_Suite-class-passed -->
+          <div class="suite-facebook_Master_Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.facebook.testCases.TC_LoginTest_003</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="LoginTest">
+                  </a> <!-- LoginTest -->
+                  <span class="method-name">LoginTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-facebook_Master_Suite-class-passed -->
+          <div class="suite-facebook_Master_Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.facebook.testCases.TC_SignUpDDT_002</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="signUpTest(Asif, Kan, khanasif.qa@gmail.com, Rabika2020@, Mar, 4, 1990, Male, failed)">
+                  </a> <!-- signUpTest(Asif, Kan, khanasif.qa@gmail.com, Rabika2020@, Mar, 4, 1990, Male, failed) -->
+                  <span class="method-name">signUpTest</span>
+                  <span class="parameters">(Asif, Kan, khanasif.qa@gmail.com, Rabika2020@, Mar, 4, 1990, Male, failed)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="signUpTest(Asif, Khan, khanasif.qa@gmail.com, Rabika2020, Mar, 4, 1990, Male, failed)">
+                  </a> <!-- signUpTest(Asif, Khan, khanasif.qa@gmail.com, Rabika2020, Mar, 4, 1990, Male, failed) -->
+                  <span class="method-name">signUpTest</span>
+                  <span class="parameters">(Asif, Khan, khanasif.qa@gmail.com, Rabika2020, Mar, 4, 1990, Male, failed)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="signUpTest(Asif, Khan, khanasif@gmail.com, Rabika2020@, Mar, 4, 1990, Male, failed)">
+                  </a> <!-- signUpTest(Asif, Khan, khanasif@gmail.com, Rabika2020@, Mar, 4, 1990, Male, failed) -->
+                  <span class="method-name">signUpTest</span>
+                  <span class="parameters">(Asif, Khan, khanasif@gmail.com, Rabika2020@, Mar, 4, 1990, Male, failed)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="signUpTest(Asif, Khan, khanasif.qa@gmail.com, Rabika2020@, Mar, 4, 1990, Male, Passed)">
+                  </a> <!-- signUpTest(Asif, Khan, khanasif.qa@gmail.com, Rabika2020@, Mar, 4, 1990, Male, Passed) -->
+                  <span class="method-name">signUpTest</span>
+                  <span class="parameters">(Asif, Khan, khanasif.qa@gmail.com, Rabika2020@, Mar, 4, 1990, Male, Passed)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-facebook_Master_Suite-class-passed -->
+        </div> <!-- panel facebook_Master_Suite -->
+        <div panel-name="test-xml-facebook_CrossBrowser_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">C:\Users\muhas\eclipse-workspace2\facebook_app\testRunners\CrossBrowserTestSuite.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;https://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite verbose=&quot;0&quot; name=&quot;facebook CrossBrowser Suite&quot; parallel=&quot;tests&quot;&gt;
+  &lt;parameter name=&quot;browser&quot; value=&quot;chrome&quot;/&gt;
+  &lt;listeners&gt;
+    &lt;listener class-name=&quot;com.facebook.utilities.ExtentReportManager&quot;/&gt;
+  &lt;/listeners&gt;
+  &lt;test thread-count=&quot;5&quot; verbose=&quot;0&quot; name=&quot;facebookTests&quot; parallel=&quot;tests&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.facebook.testCases.TC_SignUPTest_001&quot;/&gt;
+      &lt;class name=&quot;com.facebook.testCases.TC_SignUpDDT_002&quot;/&gt;
+      &lt;class name=&quot;com.facebook.testCases.TC_LoginTest_003&quot;/&gt;
+      &lt;class name=&quot;com.facebook.testCases.TC_HomePage_004&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- facebookTests --&gt;
+&lt;/suite&gt; &lt;!-- facebook CrossBrowser Suite --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="test-xml-facebook_Group_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">C:\Users\muhas\eclipse-workspace2\facebook_app\testRunners\GroupingTestSuite.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;https://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite guice-stage=&quot;DEVELOPMENT&quot; verbose=&quot;0&quot; name=&quot;facebook Group Suite&quot;&gt;
+  &lt;parameter name=&quot;browser&quot; value=&quot;chrome&quot;/&gt;
+  &lt;listeners&gt;
+    &lt;listener class-name=&quot;com.facebook.utilities.ExtentReportManager&quot;/&gt;
+  &lt;/listeners&gt;
+  &lt;test thread-count=&quot;5&quot; verbose=&quot;0&quot; name=&quot;facebookTests&quot;&gt;
+    &lt;groups&gt;
+      &lt;run&gt;
+        &lt;include name=&quot;sanity&quot;/&gt;
+      &lt;/run&gt;
+    &lt;/groups&gt;
+    &lt;packages&gt;
+      &lt;package name=&quot;com.facebook.testCases&quot;/&gt;
+    &lt;/packages&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.facebook.testCases.TC_Groups_005&quot;/&gt;
+      &lt;class name=&quot;com.facebook.testCases.TC_HomePage_004&quot;/&gt;
+      &lt;class name=&quot;com.facebook.testCases.TC_LoginTest_003&quot;/&gt;
+      &lt;class name=&quot;com.facebook.testCases.TC_SignUpDDT_002&quot;/&gt;
+      &lt;class name=&quot;com.facebook.testCases.TC_SignUPTest_001&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- facebookTests --&gt;
+&lt;/suite&gt; &lt;!-- facebook Group Suite --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="test-xml-facebook_Master_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">C:\Users\muhas\eclipse-workspace2\facebook_app\testRunners\mastertestsuite.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;https://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite verbose=&quot;0&quot; name=&quot;facebook Master Suite&quot;&gt;
+  &lt;parameter name=&quot;browser&quot; value=&quot;chrome&quot;/&gt;
+  &lt;listeners&gt;
+    &lt;listener class-name=&quot;com.facebook.utilities.ExtentReportManager&quot;/&gt;
+  &lt;/listeners&gt;
+  &lt;test thread-count=&quot;5&quot; verbose=&quot;0&quot; name=&quot;facebookTests&quot;&gt;
+    &lt;packages&gt;
+      &lt;package name=&quot;com.facebook.testCases&quot;/&gt;
+    &lt;/packages&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.facebook.testCases.TC_Groups_005&quot;/&gt;
+      &lt;class name=&quot;com.facebook.testCases.TC_HomePage_004&quot;/&gt;
+      &lt;class name=&quot;com.facebook.testCases.TC_LoginTest_003&quot;/&gt;
+      &lt;class name=&quot;com.facebook.testCases.TC_SignUpDDT_002&quot;/&gt;
+      &lt;class name=&quot;com.facebook.testCases.TC_SignUPTest_001&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- facebookTests --&gt;
+&lt;/suite&gt; &lt;!-- facebook Master Suite --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-facebook_CrossBrowser_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for facebook CrossBrowser Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">facebookTests (4 classes)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-facebook_Group_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for facebook Group Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">facebookTests (5 classes)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-facebook_Master_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for facebook Master Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">facebookTests (5 classes)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-facebook_CrossBrowser_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for facebook CrossBrowser Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="test-group">
+              <span class="test-group-name">master</span>
+              <br/>
+              <div class="method-in-group">
+                <span class="method-in-group-name">GroupsPage</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">HomePage</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">LoginTest</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">SignUPTest</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">signUpTest</span>
+                <br/>
+              </div> <!-- method-in-group -->
+            </div> <!-- test-group -->
+            <div class="test-group">
+              <span class="test-group-name">regression</span>
+              <br/>
+              <div class="method-in-group">
+                <span class="method-in-group-name">HomePage</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">LoginTest</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">SignUPTest</span>
+                <br/>
+              </div> <!-- method-in-group -->
+            </div> <!-- test-group -->
+            <div class="test-group">
+              <span class="test-group-name">sanity</span>
+              <br/>
+              <div class="method-in-group">
+                <span class="method-in-group-name">LoginTest</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">SignUPTest</span>
+                <br/>
+              </div> <!-- method-in-group -->
+            </div> <!-- test-group -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-facebook_Group_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for facebook Group Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="test-group">
+              <span class="test-group-name">master</span>
+              <br/>
+              <div class="method-in-group">
+                <span class="method-in-group-name">GroupsPage</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">HomePage</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">LoginTest</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">SignUPTest</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">signUpTest</span>
+                <br/>
+              </div> <!-- method-in-group -->
+            </div> <!-- test-group -->
+            <div class="test-group">
+              <span class="test-group-name">regression</span>
+              <br/>
+              <div class="method-in-group">
+                <span class="method-in-group-name">HomePage</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">LoginTest</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">SignUPTest</span>
+                <br/>
+              </div> <!-- method-in-group -->
+            </div> <!-- test-group -->
+            <div class="test-group">
+              <span class="test-group-name">sanity</span>
+              <br/>
+              <div class="method-in-group">
+                <span class="method-in-group-name">LoginTest</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">SignUPTest</span>
+                <br/>
+              </div> <!-- method-in-group -->
+            </div> <!-- test-group -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-facebook_Master_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for facebook Master Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="test-group">
+              <span class="test-group-name">master</span>
+              <br/>
+              <div class="method-in-group">
+                <span class="method-in-group-name">GroupsPage</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">HomePage</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">LoginTest</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">SignUPTest</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">signUpTest</span>
+                <br/>
+              </div> <!-- method-in-group -->
+            </div> <!-- test-group -->
+            <div class="test-group">
+              <span class="test-group-name">regression</span>
+              <br/>
+              <div class="method-in-group">
+                <span class="method-in-group-name">HomePage</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">LoginTest</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">SignUPTest</span>
+                <br/>
+              </div> <!-- method-in-group -->
+            </div> <!-- test-group -->
+            <div class="test-group">
+              <span class="test-group-name">sanity</span>
+              <br/>
+              <div class="method-in-group">
+                <span class="method-in-group-name">LoginTest</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">SignUPTest</span>
+                <br/>
+              </div> <!-- method-in-group -->
+            </div> <!-- test-group -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-facebook_CrossBrowser_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for facebook CrossBrowser Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_facebook_CrossBrowser_Suite');
+function tableData_facebook_CrossBrowser_Suite() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(7);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'HomePage')
+data.setCell(0, 2, 'com.facebook.testCases.TC_HomePage_004')
+data.setCell(0, 3, 18148);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'LoginTest')
+data.setCell(1, 2, 'com.facebook.testCases.TC_LoginTest_003')
+data.setCell(1, 3, 15612);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'SignUPTest')
+data.setCell(2, 2, 'com.facebook.testCases.TC_SignUPTest_001')
+data.setCell(2, 3, 14763);
+data.setCell(3, 0, 3)
+data.setCell(3, 1, 'signUpTest')
+data.setCell(3, 2, 'com.facebook.testCases.TC_SignUpDDT_002')
+data.setCell(3, 3, 13791);
+data.setCell(4, 0, 4)
+data.setCell(4, 1, 'signUpTest')
+data.setCell(4, 2, 'com.facebook.testCases.TC_SignUpDDT_002')
+data.setCell(4, 3, 13414);
+data.setCell(5, 0, 5)
+data.setCell(5, 1, 'signUpTest')
+data.setCell(5, 2, 'com.facebook.testCases.TC_SignUpDDT_002')
+data.setCell(5, 3, 12288);
+data.setCell(6, 0, 6)
+data.setCell(6, 1, 'signUpTest')
+data.setCell(6, 2, 'com.facebook.testCases.TC_SignUpDDT_002')
+data.setCell(6, 3, 12085);
+window.suiteTableData['facebook_CrossBrowser_Suite']= { tableData: data, tableDiv: 'times-div-facebook_CrossBrowser_Suite'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 1 minutes</span>
+              <div id="times-div-facebook_CrossBrowser_Suite">
+              </div> <!-- times-div-facebook_CrossBrowser_Suite -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-facebook_Group_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for facebook Group Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_facebook_Group_Suite');
+function tableData_facebook_Group_Suite() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(2);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'SignUPTest')
+data.setCell(0, 2, 'com.facebook.testCases.TC_SignUPTest_001')
+data.setCell(0, 3, 15236);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'LoginTest')
+data.setCell(1, 2, 'com.facebook.testCases.TC_LoginTest_003')
+data.setCell(1, 3, 11521);
+window.suiteTableData['facebook_Group_Suite']= { tableData: data, tableDiv: 'times-div-facebook_Group_Suite'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 26 seconds</span>
+              <div id="times-div-facebook_Group_Suite">
+              </div> <!-- times-div-facebook_Group_Suite -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-facebook_Master_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for facebook Master Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_facebook_Master_Suite');
+function tableData_facebook_Master_Suite() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(8);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'GroupsPage')
+data.setCell(0, 2, 'com.facebook.testCases.TC_Groups_005')
+data.setCell(0, 3, 33765);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'HomePage')
+data.setCell(1, 2, 'com.facebook.testCases.TC_HomePage_004')
+data.setCell(1, 3, 16202);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'LoginTest')
+data.setCell(2, 2, 'com.facebook.testCases.TC_LoginTest_003')
+data.setCell(2, 3, 14603);
+data.setCell(3, 0, 3)
+data.setCell(3, 1, 'SignUPTest')
+data.setCell(3, 2, 'com.facebook.testCases.TC_SignUPTest_001')
+data.setCell(3, 3, 13736);
+data.setCell(4, 0, 4)
+data.setCell(4, 1, 'signUpTest')
+data.setCell(4, 2, 'com.facebook.testCases.TC_SignUpDDT_002')
+data.setCell(4, 3, 13625);
+data.setCell(5, 0, 5)
+data.setCell(5, 1, 'signUpTest')
+data.setCell(5, 2, 'com.facebook.testCases.TC_SignUpDDT_002')
+data.setCell(5, 3, 12680);
+data.setCell(6, 0, 6)
+data.setCell(6, 1, 'signUpTest')
+data.setCell(6, 2, 'com.facebook.testCases.TC_SignUpDDT_002')
+data.setCell(6, 3, 12473);
+data.setCell(7, 0, 7)
+data.setCell(7, 1, 'signUpTest')
+data.setCell(7, 2, 'com.facebook.testCases.TC_SignUpDDT_002')
+data.setCell(7, 3, 12323);
+window.suiteTableData['facebook_Master_Suite']= { tableData: data, tableDiv: 'times-div-facebook_Master_Suite'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 2 minutes</span>
+              <div id="times-div-facebook_Master_Suite">
+              </div> <!-- times-div-facebook_Master_Suite -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-facebook_CrossBrowser_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for facebook CrossBrowser Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-facebook_Group_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for facebook Group Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-facebook_Master_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for facebook Master Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-facebook_CrossBrowser_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">0 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-facebook_Group_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">3 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">com.facebook.testCases.TC_Groups_005</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">GroupsPage</span>
+                <br/>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">com.facebook.testCases.TC_HomePage_004</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">HomePage</span>
+                <br/>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">com.facebook.testCases.TC_SignUpDDT_002</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">signUpTest</span>
+                <br/>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-facebook_Master_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">0 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-facebook_CrossBrowser_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.facebook.testCases.TC_SignUPTest_001</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setup(chrome)</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">SignUPTest</span>
+                <span class="method-start">3445 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">18209 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.facebook.testCases.TC_SignUpDDT_002</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setup(chrome)</span>
+                <span class="method-start">18291 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">signUpTest(Asif, Khan, khanasif.qa@gmail.com, Rabika2020@, Mar, 4, 1990, Male, Passed)</span>
+                <span class="method-start">22688 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">signUpTest(Asif, Khan, khanasif@gmail.com, Rabika2020@, Mar, 4, 1990, Male, failed)</span>
+                <span class="method-start">36479 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">signUpTest(Asif, Khan, khanasif.qa@gmail.com, Rabika2020, Mar, 4, 1990, Male, failed)</span>
+                <span class="method-start">49894 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">signUpTest(Asif, Kan, khanasif.qa@gmail.com, Rabika2020@, Mar, 4, 1990, Male, failed)</span>
+                <span class="method-start">62183 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">74268 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.facebook.testCases.TC_LoginTest_003</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setup(chrome)</span>
+                <span class="method-start">74347 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">LoginTest</span>
+                <span class="method-start">77783 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">93395 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.facebook.testCases.TC_HomePage_004</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setup(chrome)</span>
+                <span class="method-start">93504 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">HomePage</span>
+                <span class="method-start">97167 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">115317 ms</span>
+              </div> <!-- configuration-class after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-facebook_Group_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.facebook.testCases.TC_LoginTest_003</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setup(chrome)</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">LoginTest</span>
+                <span class="method-start">3461 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">14983 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.facebook.testCases.TC_SignUPTest_001</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setup(chrome)</span>
+                <span class="method-start">15159 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">SignUPTest</span>
+                <span class="method-start">19114 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">34356 ms</span>
+              </div> <!-- configuration-class after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-facebook_Master_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.facebook.testCases.TC_Groups_005</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setup(chrome)</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">GroupsPage</span>
+                <span class="method-start">6908 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">40705 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.facebook.testCases.TC_HomePage_004</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setup(chrome)</span>
+                <span class="method-start">40839 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">HomePage</span>
+                <span class="method-start">44311 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">60516 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.facebook.testCases.TC_LoginTest_003</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setup(chrome)</span>
+                <span class="method-start">60613 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">LoginTest</span>
+                <span class="method-start">63995 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">78599 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.facebook.testCases.TC_SignUpDDT_002</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setup(chrome)</span>
+                <span class="method-start">78765 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">signUpTest(Asif, Khan, khanasif.qa@gmail.com, Rabika2020@, Mar, 4, 1990, Male, Passed)</span>
+                <span class="method-start">83882 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">signUpTest(Asif, Khan, khanasif@gmail.com, Rabika2020@, Mar, 4, 1990, Male, failed)</span>
+                <span class="method-start">97508 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">signUpTest(Asif, Khan, khanasif.qa@gmail.com, Rabika2020, Mar, 4, 1990, Male, failed)</span>
+                <span class="method-start">110189 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">signUpTest(Asif, Kan, khanasif.qa@gmail.com, Rabika2020@, Mar, 4, 1990, Male, failed)</span>
+                <span class="method-start">122663 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">134986 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.facebook.testCases.TC_SignUPTest_001</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setup(chrome)</span>
+                <span class="method-start">135051 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">SignUPTest</span>
+                <span class="method-start">138567 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">152303 ms</span>
+              </div> <!-- configuration-class after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+<script type="text/javascript" src="testng-reports2.js"></script>
+</html>
